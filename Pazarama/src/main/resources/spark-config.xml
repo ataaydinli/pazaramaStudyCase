@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+  <configuration>
+
+    <!-- report theme -->
+    <!-- STANDARD, DARK -->
+    <theme>DARK</theme>
+
+    <!-- document encoding -->
+    <!-- defaults to UTF-8 -->
+    <encoding>UTF-8</encoding>
+
+    <!-- protocol for script and stylesheets -->
+    <!-- defaults to https -->
+    <!-- HTTP, HTTPS -->
+    <protocol>HTTPS</protocol>
+
+    <!-- offline report -->
+    <timelineEnabled>true</timelineEnabled>
+    
+    <!-- offline report -->
+    <enableOfflineMode>false</enableOfflineMode>
+
+    <!-- title of the document -->
+    <documentTitle>Pazarama Test Report</documentTitle>
+
+    <!-- report name - displayed at top-nav -->
+    <reportName> Pazarama Automation
+      <![CDATA[
+    <style>
+        .rounded-image {
+            position: absolute;
+            left: -100px;
+            top: 4px;
+            width: 45px; /* Genişlik 45 piksel */
+            height: 45px; /* Yükseklik 45 piksel */
+            border-radius: 50%; /* Yuvarlak kenarları ekler */
+            overflow: hidden; /* İçeriği yuvarlağa sığdırır */
+        }
+    </style>
+    <img src="https://www.eticaret.gov.tr/static/Images/Original/ddc26fbf07744e01bde6b7854ec2975e_637777885848018153.jpg" class="rounded-image" />
+]]>
+    </reportName>
+
+    <!-- timestamp format -->
+    <timeStampFormat>MMM dd, yyyy HH:mm:ss</timeStampFormat>
+
+    <!-- custom javascript -->
+    <scripts>
+      <![CDATA[
+        $(document).ready(function() {
+            
+        });
+      ]]>
+    </scripts>
+
+    <!-- custom styles -->
+    <styles>
+      <![CDATA[
+      
+      ]]>
+    </styles>
+
+  </configuration>
+</extentreports>

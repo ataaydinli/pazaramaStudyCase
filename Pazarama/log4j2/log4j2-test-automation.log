@@ -1,0 +1,1263 @@
+[INFO ] 2023-10-01 08:08:05.937 [main] Utils - [TestNG] Running:
+  C:\Users\ata.aydinli\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+[INFO ] 2023-10-01 08:08:05.958 [main] Listener - I am in onStart method PazaramaCaseStudy
+[INFO ] 2023-10-01 08:08:06.014 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-10-01 08:08:06.015 [main] Listener - Test Skipped: goToPazaramaPage
+[INFO ] 2023-10-01 08:08:06.020 [main] Listener - I am in onFinish method PazaramaCaseStudy
+[INFO ] 2023-10-01 08:08:20.336 [main] Utils - [TestNG] Running:
+  C:\Users\ata.aydinli\Downloads\PazaramaCaseStudy\Pazarama\src\test\java\XSuites\Smoke.xml
+
+[INFO ] 2023-10-01 08:08:20.346 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-10-01 08:08:26.504 [main] BaseTest - Window size: (1936, 1056)
+[INFO ] 2023-10-01 08:08:26.573 [main] Listener - Test Started: goToPazaramaPage
+[INFO ] 2023-10-01 08:08:26.601 [main] Reuse - Kullanici arama motorunu açarak https://www.pazarama.com sayfasina giriş yapar.
+[INFO ] 2023-10-01 08:08:31.918 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna tıklar.
+[INFO ] 2023-10-01 08:08:39.036 [main] Reuse - Kullanici 'E-Posta adresiniz' adlı texbox'a e-posta adresini giriş yapar.
+[INFO ] 2023-10-01 08:08:41.570 [main] Reuse - Kullanici 'Şifreniz' adlı texbox'a şifresini giriş yapar.
+[INFO ] 2023-10-01 08:08:42.548 [main] Reuse - Kullanici 'E-Posta' ve 'Şifre' alanlarını doldurarak 'DEVAM' butonuna tıklar.
+[INFO ] 2023-10-01 08:08:43.925 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-10-01 08:08:46.273 [main] Reuse - Metro menü kategorisinde 12 adet item olduğu doğrulanır.
+[INFO ] 2023-10-01 08:08:56.364 [main] Reuse - Menüden rastgele --> Paraşüt, Paraşüt Ekipmanları kategorisi seçilerek , kategoriye tıklanır.
+[INFO ] 2023-10-01 08:09:00.457 [main] Reuse - loxx adlı ürün favorilere eklenir.
+[INFO ] 2023-10-01 08:09:05.531 [main] Reuse - Favoriye eklenen loxxadlı ürünün favoriler listesine eklendiği doğrulanır.
+[INFO ] 2023-10-01 08:09:05.533 [main] Listener - goToPazaramaPage test is succeed.
+[INFO ] 2023-10-01 08:09:06.989 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-10-01 08:17:18.543 [main] Utils - [TestNG] Running:
+  C:\Users\ata.aydinli\Downloads\PazaramaCaseStudy\Pazarama\src\test\java\XSuites\Smoke.xml
+
+[INFO ] 2023-10-01 08:17:18.552 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-10-01 08:17:22.881 [main] BaseTest - Window size: (1936, 1056)
+[INFO ] 2023-10-01 08:17:22.989 [main] Listener - Test Started: pazaramaCaseStudy
+[INFO ] 2023-10-01 08:17:23.007 [main] Reuse - Kullanici arama motorunu açarak https://www.pazarama.com sayfasina giriş yapar.
+[INFO ] 2023-10-01 08:17:30.262 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna tıklar.
+[INFO ] 2023-10-01 08:17:35.826 [main] Reuse - Kullanici 'E-Posta adresiniz' adlı texbox'a e-posta adresini giriş yapar.
+[INFO ] 2023-10-01 08:17:41.765 [main] Reuse - Kullanici 'Şifreniz' adlı texbox'a şifresini giriş yapar.
+[INFO ] 2023-10-01 08:17:42.721 [main] Reuse - Kullanici 'E-Posta' ve 'Şifre' alanlarını doldurarak 'DEVAM' butonuna tıklar.
+[INFO ] 2023-10-01 08:17:44.155 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-10-01 08:17:46.484 [main] Reuse - Metro menü kategorisinde 12 adet item olduğu doğrulanır.
+[INFO ] 2023-10-01 08:17:56.593 [main] Reuse - Menüden rastgele --> Kadın Ev Terliği, Botu kategorisi seçilerek , kategoriye tıklanır.
+[INFO ] 2023-10-01 08:18:02.734 [main] Reuse - Kadın Açık Puf Ev Terliği adlı ürün favorilere eklenir.
+[INFO ] 2023-10-01 08:18:08.090 [main] Reuse - Favoriye eklenen Kadın Açık Puf Ev Terliği adlı ürünün favoriler listesine eklendiği doğrulanır.
+[INFO ] 2023-10-01 08:18:08.094 [main] Listener - pazaramaCaseStudy test is succeed.
+[INFO ] 2023-10-01 08:18:09.526 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-10-01 08:21:37.259 [main] Utils - [TestNG] Running:
+  C:\Users\ata.aydinli\Downloads\PazaramaCaseStudy\Pazarama\src\test\java\XSuites\Smoke.xml
+
+[INFO ] 2023-10-01 08:21:37.268 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-10-01 08:21:41.576 [main] BaseTest - Window size: (1936, 1056)
+[INFO ] 2023-10-01 08:21:41.664 [main] Listener - Test Started: pazaramaCaseStudy
+[INFO ] 2023-10-01 08:21:41.703 [main] Reuse - Kullanici arama motorunu açarak https://www.pazarama.com sayfasina giriş yapar.
+[INFO ] 2023-10-01 08:21:43.405 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna tıklar.
+[INFO ] 2023-10-01 08:21:46.308 [main] Reuse - Kullanici 'E-Posta adresiniz' adlı texbox'a e-posta adresini giriş yapar.
+[INFO ] 2023-10-01 08:21:48.914 [main] Reuse - Kullanici 'Şifreniz' adlı texbox'a şifresini giriş yapar.
+[INFO ] 2023-10-01 08:21:49.897 [main] Reuse - Kullanici 'E-Posta' ve 'Şifre' alanlarını doldurarak 'DEVAM' butonuna tıklar.
+[INFO ] 2023-10-01 08:21:51.140 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-10-01 08:21:52.952 [main] Reuse - Metro menü kategorisinde 12 adet item olduğu doğrulanır.
+[INFO ] 2023-10-01 08:21:59.489 [main] Listener - Test Failed: pazaramaCaseStudy
+[ERROR] 2023-10-01 08:21:59.490 [main] Listener - org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a href="/drone-drone-aksesuar-k-k06344" class="text-gray-600 text-xxs font-normal hover:text-blue-500 hover:underline">...</a> is not clickable at point (433, 895). Other element would receive the click: <div data-v-09be6c34="" class="flex-1">...</div>
+  (Session info: chrome=117.0.5938.132)
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b1fe19a76ad4427d0fb942c5b59a0929, clickElement {id=73B89B23AE2A0884F83F35840EE7D547_element_189}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 117.0.5938.132, chrome: {chromedriverVersion: 117.0.5938.92 (67649b10b92b..., userDataDir: C:\Users\ATA~1.AYD\AppData\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49790}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49790/devtoo..., se:cdpVersion: 117.0.5938.132, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (b1fe19a76ad4427d0fb942c5b59a0929)] -> xpath: //div[@class='mega-menu-category']//ul/li/a]
+Session ID: b1fe19a76ad4427d0fb942c5b59a0929
+[INFO ] 2023-10-01 08:22:00.972 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-10-01 08:22:49.438 [main] Utils - [TestNG] Running:
+  C:\Users\ata.aydinli\Downloads\PazaramaCaseStudy\Pazarama\src\test\java\XSuites\Smoke.xml
+
+[INFO ] 2023-10-01 08:22:49.451 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-10-01 08:22:56.155 [main] BaseTest - Window size: (1936, 1056)
+[INFO ] 2023-10-01 08:22:56.254 [main] Listener - Test Started: pazaramaCaseStudy
+[INFO ] 2023-10-01 08:22:56.286 [main] Reuse - Kullanici arama motorunu açarak https://www.pazarama.com sayfasina giriş yapar.
+[INFO ] 2023-10-01 08:23:12.475 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna tıklar.
+[INFO ] 2023-10-01 08:23:13.148 [main] Reuse - Kullanici 'E-Posta adresiniz' adlı texbox'a e-posta adresini giriş yapar.
+[INFO ] 2023-10-01 08:23:21.471 [main] Reuse - Kullanici 'Şifreniz' adlı texbox'a şifresini giriş yapar.
+[INFO ] 2023-10-01 08:23:23.010 [main] Reuse - Kullanici 'E-Posta' ve 'Şifre' alanlarını doldurarak 'DEVAM' butonuna tıklar.
+[INFO ] 2023-10-01 08:23:24.847 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-10-01 08:23:27.725 [main] Reuse - Metro menü kategorisinde 12 adet item olduğu doğrulanır.
+[INFO ] 2023-10-01 08:23:38.928 [main] Reuse - Menüden rastgele --> Erkek Sandalet, Terlik kategorisi seçilerek , kategoriye tıklanır.
+[INFO ] 2023-10-01 08:23:45.854 [main] Listener - Test Failed: pazaramaCaseStudy
+[ERROR] 2023-10-01 08:23:45.856 [main] Listener - java.lang.IllegalArgumentException: bound must be positive
+[INFO ] 2023-10-01 08:23:47.573 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-10-01 08:31:19.542 [main] Utils - [TestNG] Running:
+  C:\Users\ata.aydinli\Downloads\PazaramaCaseStudy\Pazarama\src\test\java\XSuites\Smoke.xml
+
+[INFO ] 2023-10-01 08:31:19.554 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-10-01 08:31:25.906 [main] BaseTest - Window size: (1936, 1056)
+[INFO ] 2023-10-01 08:31:26.012 [main] Listener - Test Started: pazaramaCaseStudy
+[INFO ] 2023-10-01 08:31:26.037 [main] Reuse - Kullanici arama motorunu açarak https://www.pazarama.com sayfasina giriş yapar.
+[INFO ] 2023-10-01 08:31:39.002 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna tıklar.
+[INFO ] 2023-10-01 08:31:39.289 [main] Reuse - Kullanici 'E-Posta adresiniz' adlı texbox'a e-posta adresini giriş yapar.
+[INFO ] 2023-10-01 08:31:47.322 [main] Reuse - Kullanici 'Şifreniz' adlı texbox'a şifresini giriş yapar.
+[INFO ] 2023-10-01 08:31:48.803 [main] Reuse - Kullanici 'E-Posta' ve 'Şifre' alanlarını doldurarak 'DEVAM' butonuna tıklar.
+[INFO ] 2023-10-01 08:31:50.760 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-10-01 08:31:53.785 [main] Reuse - Metro menü kategorisinde 12 adet item olduğu doğrulanır.
+[INFO ] 2023-10-01 08:32:00.392 [main] Listener - Test Failed: pazaramaCaseStudy
+[ERROR] 2023-10-01 08:32:00.394 [main] Listener - org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a href="/tiras-makinesi-k-k07070" class="text-gray-600 text-xxs font-normal hover:text-blue-500 hover:underline">...</a> is not clickable at point (408, 909). Other element would receive the click: <div data-v-09be6c34="" class="flex items-center py-5">...</div>
+  (Session info: chrome=117.0.5938.132)
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [281fd33009a8254eae33f5d6ef5ba631, clickElement {id=BF36125CE8DF44932036E49F774DE56A_element_196}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 117.0.5938.132, chrome: {chromedriverVersion: 117.0.5938.92 (67649b10b92b..., userDataDir: C:\Users\ATA~1.AYD\AppData\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50288}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50288/devtoo..., se:cdpVersion: 117.0.5938.132, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (281fd33009a8254eae33f5d6ef5ba631)] -> css selector: a[class="text-gray-600 text-xxs font-normal hover:text-blue-500 hover:underline\]
+Session ID: 281fd33009a8254eae33f5d6ef5ba631
+[INFO ] 2023-10-01 08:32:02.169 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-10-01 08:32:25.434 [main] Utils - [TestNG] Running:
+  C:\Users\ata.aydinli\Downloads\PazaramaCaseStudy\Pazarama\src\test\java\XSuites\Smoke.xml
+
+[INFO ] 2023-10-01 08:32:25.446 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-10-01 08:32:32.430 [main] BaseTest - Window size: (1936, 1056)
+[INFO ] 2023-10-01 08:32:32.520 [main] Listener - Test Started: pazaramaCaseStudy
+[INFO ] 2023-10-01 08:32:32.555 [main] Reuse - Kullanici arama motorunu açarak https://www.pazarama.com sayfasina giriş yapar.
+[INFO ] 2023-10-01 08:32:34.873 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna tıklar.
+[INFO ] 2023-10-01 08:32:37.325 [main] Reuse - Kullanici 'E-Posta adresiniz' adlı texbox'a e-posta adresini giriş yapar.
+[INFO ] 2023-10-01 08:32:43.592 [main] Reuse - Kullanici 'Şifreniz' adlı texbox'a şifresini giriş yapar.
+[INFO ] 2023-10-01 08:32:45.122 [main] Reuse - Kullanici 'E-Posta' ve 'Şifre' alanlarını doldurarak 'DEVAM' butonuna tıklar.
+[INFO ] 2023-10-01 08:32:46.788 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-10-01 08:32:50.090 [main] Reuse - Metro menü kategorisinde 12 adet item olduğu doğrulanır.
+[INFO ] 2023-10-01 08:33:00.493 [main] Reuse - Menüden rastgele --> Kadın Sandalet, Terlik kategorisi seçilerek , kategoriye tıklanır.
+[INFO ] 2023-10-01 08:33:12.647 [main] Reuse - 9844-1 ZENNE (35-41) adlı ürün favorilere eklenir.
+[INFO ] 2023-10-01 08:33:18.168 [main] Listener - Test Failed: pazaramaCaseStudy
+[ERROR] 2023-10-01 08:33:18.170 [main] Listener - java.lang.AssertionError: Favoriye eklenen ürün favoriler listesine eklenmemiştir. expected [Ceyo Bahama-10 Unisex Siyah Unisex Terlik] but found [9844-1 ZENNE (35-41)]
+[INFO ] 2023-10-01 08:33:20.186 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-10-01 08:34:55.844 [main] Utils - [TestNG] Running:
+  C:\Users\ata.aydinli\Downloads\PazaramaCaseStudy\Pazarama\src\test\java\XSuites\Smoke.xml
+
+[INFO ] 2023-10-01 08:34:55.856 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-10-01 08:35:02.847 [main] BaseTest - Window size: (1936, 1056)
+[INFO ] 2023-10-01 08:35:02.939 [main] Listener - Test Started: pazaramaCaseStudy
+[INFO ] 2023-10-01 08:35:02.973 [main] Reuse - Kullanici arama motorunu açarak https://www.pazarama.com sayfasina giriş yapar.
+[INFO ] 2023-10-01 08:35:05.498 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna tıklar.
+[INFO ] 2023-10-01 08:35:07.983 [main] Reuse - Kullanici 'E-Posta adresiniz' adlı texbox'a e-posta adresini giriş yapar.
+[INFO ] 2023-10-01 08:35:14.104 [main] Reuse - Kullanici 'Şifreniz' adlı texbox'a şifresini giriş yapar.
+[INFO ] 2023-10-01 08:35:15.650 [main] Reuse - Kullanici 'E-Posta' ve 'Şifre' alanlarını doldurarak 'DEVAM' butonuna tıklar.
+[INFO ] 2023-10-01 08:35:17.352 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-10-01 08:35:20.070 [main] Reuse - Metro menü kategorisinde 12 adet item olduğu doğrulanır.
+[INFO ] 2023-10-01 08:35:29.611 [main] Reuse - Menüden rastgele --> Retro Oyun Konsolları kategorisi seçilerek , kategoriye tıklanır.
+[INFO ] 2023-10-01 08:35:34.330 [main] Reuse - Thec64 Mini Commodore 64 Konsol C64 adlı ürün favorilere eklenir.
+[INFO ] 2023-10-01 08:35:39.995 [main] Reuse - Favoriye eklenen --> 'Thec64 Mini Commodore 64 Konsol C64' adlı ürünün favoriler listesine başarılı bir şekilde eklendiği doğrulanır.
+[INFO ] 2023-10-01 08:35:40.001 [main] Listener - pazaramaCaseStudy test is succeed.
+[INFO ] 2023-10-01 08:35:41.996 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-10-01 08:36:04.459 [main] Utils - [TestNG] Running:
+  C:\Users\ata.aydinli\Downloads\PazaramaCaseStudy\Pazarama\src\test\java\XSuites\Smoke.xml
+
+[INFO ] 2023-10-01 08:36:04.471 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-10-01 08:36:10.644 [main] BaseTest - Window size: (1936, 1056)
+[INFO ] 2023-10-01 08:36:10.737 [main] Listener - Test Started: pazaramaCaseStudy
+[INFO ] 2023-10-01 08:36:10.771 [main] Reuse - Kullanici arama motorunu açarak https://www.pazarama.com sayfasina giriş yapar.
+[INFO ] 2023-10-01 08:36:13.054 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna tıklar.
+[INFO ] 2023-10-01 08:36:15.808 [main] Reuse - Kullanici 'E-Posta adresiniz' adlı texbox'a e-posta adresini giriş yapar.
+[INFO ] 2023-10-01 08:36:21.410 [main] Reuse - Kullanici 'Şifreniz' adlı texbox'a şifresini giriş yapar.
+[INFO ] 2023-10-01 08:36:22.924 [main] Reuse - Kullanici 'E-Posta' ve 'Şifre' alanlarını doldurarak 'DEVAM' butonuna tıklar.
+[INFO ] 2023-10-01 08:36:24.430 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-10-01 08:36:28.832 [main] Reuse - Metro menü kategorisinde 12 adet item olduğu doğrulanır.
+[INFO ] 2023-10-01 08:36:38.299 [main] Reuse - Menüden rastgele --> Glutensiz Ürünler kategorisi seçilerek , kategoriye tıklanır.
+[INFO ] 2023-10-01 08:36:42.512 [main] Reuse - Glutensiz Badem ve Kakaolu Kurabiye (50 gr) - Mom's Granola adlı ürün favorilere eklenir.
+[INFO ] 2023-10-01 08:36:48.569 [main] Listener - Test Failed: pazaramaCaseStudy
+[ERROR] 2023-10-01 08:36:48.571 [main] Listener - java.lang.AssertionError: Favoriye eklenen ürün favoriler listesine eklenmemiştir. expected [Thec64 Mini Commodore 64 Konsol C64] but found [Glutensiz Badem ve Kakaolu Kurabiye (50 gr) - Mom's Granola]
+[INFO ] 2023-10-01 08:36:50.460 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-10-01 14:13:32.078 [main] Utils - [TestNG] Running:
+  C:\Users\ata.aydinli\Downloads\PazaramaCaseStudy\Pazarama\src\test\java\XSuites\Smoke.xml
+
+[INFO ] 2023-10-01 14:13:32.088 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-10-01 14:13:38.908 [main] BaseTest - Window size: (1936, 1056)
+[INFO ] 2023-10-01 14:13:38.992 [main] Listener - Test Started: pazaramaCaseStudy
+[INFO ] 2023-10-01 14:13:39.018 [main] Reuse - Kullanici arama motorunu açarak https://www.pazarama.com sayfasina giriş yapar.
+[INFO ] 2023-10-01 14:13:47.216 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna tıklar.
+[INFO ] 2023-10-01 14:13:57.663 [main] Reuse - Kullanici 'E-Posta adresiniz' adlı texbox'a e-posta adresini giriş yapar.
+[INFO ] 2023-10-01 14:14:00.230 [main] Reuse - Kullanici 'Şifreniz' adlı texbox'a şifresini giriş yapar.
+[INFO ] 2023-10-01 14:14:01.213 [main] Reuse - Kullanici 'E-Posta' ve 'Şifre' alanlarını doldurarak 'DEVAM' butonuna tıklar.
+[INFO ] 2023-10-01 14:14:03.113 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-10-01 14:14:05.568 [main] Reuse - Metro menü  kategorisinde 12 adet item olduğu doğrulanır.
+[INFO ] 2023-10-01 14:14:15.729 [main] Reuse - Menüden rastgele --> E-Kitap Okuyucular kategorisi seçilerek , kategoriye tıklanır.
+[INFO ] 2023-10-01 14:14:16.068 [main] Listener - Test Failed: pazaramaCaseStudy
+[ERROR] 2023-10-01 14:14:16.069 [main] Listener - java.lang.IllegalArgumentException: bound must be positive
+[INFO ] 2023-10-01 14:14:18.556 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-10-01 14:16:34.178 [main] Utils - [TestNG] Running:
+  C:\Users\ata.aydinli\Downloads\PazaramaCaseStudy\Pazarama\src\test\java\XSuites\Smoke.xml
+
+[INFO ] 2023-10-01 14:16:34.188 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-10-01 14:16:39.368 [main] BaseTest - Window size: (1936, 1056)
+[INFO ] 2023-10-01 14:16:39.458 [main] Listener - Test Started: pazaramaCaseStudy
+[INFO ] 2023-10-01 14:16:39.486 [main] Reuse - Kullanici arama motorunu açarak https://www.pazarama.com sayfasina giriş yapar.
+[INFO ] 2023-10-01 14:16:41.786 [main] Reuse - Kullanici 'Giriş Yap / Üye Ol ' butonuna tıklar.
+[INFO ] 2023-10-01 14:16:43.684 [main] Reuse - Kullanici 'E-Posta adresiniz' adlı texbox'a e-posta adresini giriş yapar.
+[INFO ] 2023-10-01 14:16:47.840 [main] Reuse - Kullanici 'Şifreniz' adlı texbox'a şifresini giriş yapar.
+[INFO ] 2023-10-01 14:16:48.845 [main] Reuse - Kullanici 'E-Posta' ve 'Şifre' alanlarını doldurarak 'DEVAM' butonuna tıklar.
+[INFO ] 2023-10-01 14:16:49.899 [main] Reuse - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-10-01 14:16:52.405 [main] Reuse - Metro menü  kategorisinde 12 adet item olduğu doğrulanır.
+[INFO ] 2023-10-01 14:17:01.761 [main] Reuse - Menüden rastgele --> Tümü kategorisi seçilerek , kategoriye tıklanır.
+[INFO ] 2023-10-01 14:17:06.806 [main] Reuse - PİRELLİ 205/55R16 91W (*) RFT P7 CINTURATO Yaz Lastiği (2023) adlı ürün favorilere eklenir.
+[INFO ] 2023-10-01 14:17:12.619 [main] Listener - Test Failed: pazaramaCaseStudy
+[ERROR] 2023-10-01 14:17:12.620 [main] Listener - java.lang.AssertionError: Favoriye eklenen ürün favoriler listesine eklenmemiştir. expected [175/65R14 82T UltraContact 2023 Üretim Continental 0312315 Yazlık Lastik] but found [PİRELLİ 205/55R16 91W (*) RFT P7 CINTURATO Yaz Lastiği (2023)]
+[INFO ] 2023-10-01 14:17:14.218 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-10-01 14:33:07.189 [main] Utils - [TestNG] Running:
+  C:\Users\ata.aydinli\Downloads\PazaramaCaseStudy\Pazarama\src\test\java\XSuites\Smoke.xml
+
+[INFO ] 2023-10-01 14:33:07.200 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-10-01 14:33:12.999 [main] BaseTest - Window size: (1936, 1056)
+[INFO ] 2023-10-01 14:33:13.086 [main] Listener - Test Started: pazaramaCaseStudy
+[INFO ] 2023-10-01 14:33:13.123 [main] ReusableMethods - Kullanici arama motorunu açarak https://www.pazarama.com sayfasina giriş yapar.
+[INFO ] 2023-10-01 14:33:19.791 [main] ReusableMethods - Kullanici 'Giriş Yap / Üye Ol ' butonuna tıklar.
+[INFO ] 2023-10-01 14:33:26.093 [main] ReusableMethods - Kullanici 'E-Posta adresiniz' adlı texbox'a e-posta adresini giriş yapar.
+[INFO ] 2023-10-01 14:33:28.622 [main] ReusableMethods - Kullanici 'Şifreniz' adlı texbox'a şifresini giriş yapar.
+[INFO ] 2023-10-01 14:33:29.580 [main] ReusableMethods - Kullanici 'E-Posta' ve 'Şifre' alanlarını doldurarak 'DEVAM' butonuna tıklar.
+[INFO ] 2023-10-01 14:33:31.127 [main] ReusableMethods - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-10-01 14:33:36.727 [main] ReusableMethods - Metro menü  kategorisinde 12 adet item olduğu doğrulanır.
+[INFO ] 2023-10-01 14:33:47.306 [main] ReusableMethods - Menüden rastgele --> Süblimasyon Makinesi kategorisi seçilerek , kategoriye tıklanır.
+[INFO ] 2023-10-01 14:33:51.392 [main] ReusableMethods - Epson EcoTank L1250 Wifi Tanklı Yazıcı Süblimasyon Mürekkepli adlı ürün favorilere eklenir.
+[INFO ] 2023-10-01 14:33:57.224 [main] ReusableMethods - Favoriye eklenen --> 'Epson EcoTank L1250 Wifi Tanklı Yazıcı Süblimasyon Mürekkepli' adlı ürünün favoriler listesine başarılı bir şekilde eklendiği doğrulanır.
+[INFO ] 2023-10-01 14:33:57.227 [main] Listener - pazaramaCaseStudy test is succeed.
+[INFO ] 2023-10-01 14:33:58.663 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-10-01 14:40:19.463 [main] Utils - [TestNG] Running:
+  C:\Users\ata.aydinli\Downloads\PazaramaCaseStudy\Pazarama\src\test\java\XSuites\Smoke.xml
+
+[INFO ] 2023-10-01 14:40:19.472 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-10-01 14:40:23.966 [main] BaseTest - Window size: (1936, 1056)
+[INFO ] 2023-10-01 14:40:24.043 [main] Listener - Test Started: pazaramaCaseStudy
+[INFO ] 2023-10-01 14:40:24.070 [main] ReusableMethods - Kullanici arama motorunu açarak https://www.pazarama.com sayfasina giriş yapar.
+[INFO ] 2023-10-01 14:40:39.824 [main] ReusableMethods - Kullanici 'Giriş Yap / Üye Ol ' butonuna tıklar.
+[INFO ] 2023-10-01 14:40:39.954 [main] ReusableMethods - Kullanici 'E-Posta adresiniz' adlı texbox'a e-posta adresini giriş yapar.
+[INFO ] 2023-10-01 14:40:47.563 [main] ReusableMethods - Kullanici 'Şifreniz' adlı texbox'a şifresini giriş yapar.
+[INFO ] 2023-10-01 14:40:48.540 [main] ReusableMethods - Kullanici 'E-Posta' ve 'Şifre' alanlarını doldurarak 'DEVAM' butonuna tıklar.
+[INFO ] 2023-10-01 14:40:50.039 [main] ReusableMethods - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-10-01 14:40:52.074 [main] ReusableMethods - Metro menü  kategorisinde 12 adet item olduğu doğrulanır.
+[INFO ] 2023-10-01 14:41:02.780 [main] ReusableMethods - Menüden rastgele --> Sporcu Elektroniği kategorisi seçilerek , kategoriye tıklanır.
+[INFO ] 2023-10-01 14:41:03.092 [main] Listener - Test Failed: pazaramaCaseStudy
+[ERROR] 2023-10-01 14:41:03.093 [main] Listener - java.lang.IllegalArgumentException: bound must be positive
+[INFO ] 2023-10-01 14:41:04.611 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-10-01 14:41:53.537 [main] Utils - [TestNG] Running:
+  C:\Users\ata.aydinli\Downloads\PazaramaCaseStudy\Pazarama\src\test\java\XSuites\Smoke.xml
+
+[INFO ] 2023-10-01 14:41:53.546 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-10-01 14:41:57.969 [main] BaseTest - Window size: (1936, 1056)
+[INFO ] 2023-10-01 14:41:58.039 [main] Listener - Test Started: pazaramaCaseStudy
+[INFO ] 2023-10-01 14:41:58.064 [main] ReusableMethods - Kullanici arama motorunu açarak https://www.pazarama.com sayfasina giriş yapar.
+[INFO ] 2023-10-01 14:42:00.183 [main] ReusableMethods - Kullanici 'Giriş Yap / Üye Ol ' butonuna tıklar.
+[INFO ] 2023-10-01 14:42:01.663 [main] ReusableMethods - Kullanici 'E-Posta adresiniz' adlı texbox'a e-posta adresini giriş yapar.
+[INFO ] 2023-10-01 14:42:06.153 [main] ReusableMethods - Kullanici 'Şifreniz' adlı texbox'a şifresini giriş yapar.
+[INFO ] 2023-10-01 14:42:07.127 [main] ReusableMethods - Kullanici 'E-Posta' ve 'Şifre' alanlarını doldurarak 'DEVAM' butonuna tıklar.
+[INFO ] 2023-10-01 14:42:08.438 [main] ReusableMethods - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-10-01 14:42:10.392 [main] ReusableMethods - Metro menü  kategorisinde 12 adet item olduğu doğrulanır.
+[INFO ] 2023-10-01 14:42:19.734 [main] ReusableMethods - Menüden rastgele --> Televizyon Aksesuarları kategorisi seçilerek , kategoriye tıklanır.
+[INFO ] 2023-10-01 14:42:20.068 [main] Listener - Test Failed: pazaramaCaseStudy
+[ERROR] 2023-10-01 14:42:20.069 [main] Listener - java.lang.IllegalArgumentException: bound must be positive
+[INFO ] 2023-10-01 14:42:21.572 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-10-01 14:42:48.344 [main] Utils - [TestNG] Running:
+  C:\Users\ata.aydinli\Downloads\PazaramaCaseStudy\Pazarama\src\test\java\XSuites\Smoke.xml
+
+[INFO ] 2023-10-01 14:42:48.353 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-10-01 14:42:52.664 [main] BaseTest - Window size: (1936, 1056)
+[INFO ] 2023-10-01 14:42:52.745 [main] Listener - Test Started: pazaramaCaseStudy
+[INFO ] 2023-10-01 14:42:52.772 [main] ReusableMethods - Kullanici arama motorunu açarak https://www.pazarama.com sayfasina giriş yapar.
+[INFO ] 2023-10-01 14:42:55.027 [main] ReusableMethods - Kullanici 'Giriş Yap / Üye Ol ' butonuna tıklar.
+[INFO ] 2023-10-01 14:42:56.387 [main] ReusableMethods - Kullanici 'E-Posta adresiniz' adlı texbox'a e-posta adresini giriş yapar.
+[INFO ] 2023-10-01 14:43:00.893 [main] ReusableMethods - Kullanici 'Şifreniz' adlı texbox'a şifresini giriş yapar.
+[INFO ] 2023-10-01 14:43:01.858 [main] ReusableMethods - Kullanici 'E-Posta' ve 'Şifre' alanlarını doldurarak 'DEVAM' butonuna tıklar.
+[INFO ] 2023-10-01 14:43:03.292 [main] ReusableMethods - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-10-01 14:43:05.099 [main] ReusableMethods - Metro menü  kategorisinde 12 adet item olduğu doğrulanır.
+[INFO ] 2023-10-01 14:43:14.459 [main] ReusableMethods - Menüden rastgele --> Direksiyon Seti kategorisi seçilerek , kategoriye tıklanır.
+[INFO ] 2023-10-01 14:43:15.796 [main] Listener - Test Failed: pazaramaCaseStudy
+[ERROR] 2023-10-01 14:43:15.797 [main] Listener - java.lang.IllegalArgumentException: bound must be positive
+[INFO ] 2023-10-01 14:43:18.003 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-10-01 14:44:20.441 [main] Utils - [TestNG] Running:
+  C:\Users\ata.aydinli\Downloads\PazaramaCaseStudy\Pazarama\src\test\java\XSuites\Smoke.xml
+
+[INFO ] 2023-10-01 14:44:20.449 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-10-01 14:44:24.829 [main] BaseTest - Window size: (1936, 1056)
+[INFO ] 2023-10-01 14:44:24.907 [main] Listener - Test Started: pazaramaCaseStudy
+[INFO ] 2023-10-01 14:44:24.928 [main] ReusableMethods - Kullanici arama motorunu açarak https://www.pazarama.com sayfasina giriş yapar.
+[INFO ] 2023-10-01 14:44:28.018 [main] ReusableMethods - Kullanici 'Giriş Yap / Üye Ol ' butonuna tıklar.
+[INFO ] 2023-10-01 14:44:29.695 [main] ReusableMethods - Kullanici 'E-Posta adresiniz' adlı texbox'a e-posta adresini giriş yapar.
+[INFO ] 2023-10-01 14:44:33.982 [main] ReusableMethods - Kullanici 'Şifreniz' adlı texbox'a şifresini giriş yapar.
+[INFO ] 2023-10-01 14:44:34.933 [main] ReusableMethods - Kullanici 'E-Posta' ve 'Şifre' alanlarını doldurarak 'DEVAM' butonuna tıklar.
+[INFO ] 2023-10-01 14:44:36.117 [main] ReusableMethods - Kullanici LOGIN oldugunu dogrular.
+[INFO ] 2023-10-01 14:44:39.386 [main] ReusableMethods - Metro menü  kategorisinde 12 adet item olduğu doğrulanır.
+[INFO ] 2023-10-01 14:44:48.752 [main] ReusableMethods - Menüden rastgele --> Çeyiz Seti kategorisi seçilerek , kategoriye tıklanır.
+[INFO ] 2023-10-01 14:44:55.556 [main] ReusableMethods - Karaca Home Valeria Best Gül Kurusu 8 Parça Çeyiz Seti adlı ürün favorilere eklenir.
+[INFO ] 2023-10-01 14:45:01.155 [main] ReusableMethods - Favoriye eklenen --> 'Karaca Home Valeria Best Gül Kurusu 8 Parça Çeyiz Seti' adlı ürünün favoriler listesine başarılı bir şekilde eklendiği doğrulanır.
+[INFO ] 2023-10-01 14:45:01.158 [main] Listener - pazaramaCaseStudy test is succeed.
+[INFO ] 2023-10-01 14:45:02.636 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-10-01 14:51:21.643 [main] Utils - [TestNG] Running:
+  C:\Users\ata.aydinli\Downloads\PazaramaCaseStudy\Pazarama\src\test\java\XSuites\Smoke.xml
+
+[INFO ] 2023-10-01 14:51:21.652 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-10-01 14:51:26.064 [main] BaseTest - Window size: (1936, 1056)
+[INFO ] 2023-10-01 14:51:26.132 [main] Listener - Test Started: pazaramaCaseStudy
+[INFO ] 2023-10-01 14:51:26.162 [main] ReusableMethods - Kullanici arama motorunu açarak https://www.pazarama.com sayfasina giriş yapar.
+[INFO ] 2023-10-01 14:51:37.958 [main] ReusableMethods - Kullanıcının https://www.pazarama.com/ adresine başarılı bir şekilde yönlendirildiği doğrulanır.
+[INFO ] 2023-10-01 14:51:37.958 [main] ReusableMethods - Kullanici 'Giriş Yap / Üye Ol ' butonuna tıklar.
+[INFO ] 2023-10-01 14:51:38.137 [main] ReusableMethods - Kullanici 'E-Posta adresiniz' adlı texbox'a e-posta adresini giriş yapar.
+[INFO ] 2023-10-01 14:51:46.205 [main] ReusableMethods - Kullanici 'Şifreniz' adlı texbox'a şifresini giriş yapar.
+[INFO ] 2023-10-01 14:51:47.173 [main] ReusableMethods - Kullanici 'E-Posta' ve 'Şifre' alanlarını doldurarak 'DEVAM' butonuna tıklar.
+[INFO ] 2023-10-01 14:51:48.745 [main] Listener - Test Failed: pazaramaCaseStudy
+[ERROR] 2023-10-01 14:51:48.746 [main] Listener - java.lang.AssertionError: Kullanıcı 'Devam Et' butonuna tıkladıktan sonra yanlış sayfaya yönlendirildi. expected [https://www.pazarama.com/] but found [https://www.pazarama.com/callback?code=11C2F330F0FF420A25F030D086BD7E67C9A26E9D46AC458BE4A92A6A275DE620&scope=openid%20profile%20pazaramaweb.fullaccess%20offline_access&state=TmR1KxcfTz&session_state=OqkZJ5cn1LkqGky_EAOoTjqunoyw4WenLdHdiFpU-sk.FEF7B7B7B2E4EEB816240CD4C830F4CD]
+[INFO ] 2023-10-01 14:51:50.217 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-10-01 14:53:02.741 [main] Utils - [TestNG] Running:
+  C:\Users\ata.aydinli\Downloads\PazaramaCaseStudy\Pazarama\src\test\java\XSuites\Smoke.xml
+
+[INFO ] 2023-10-01 14:53:02.750 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-10-01 14:53:07.115 [main] BaseTest - Window size: (1936, 1056)
+[INFO ] 2023-10-01 14:53:07.185 [main] Listener - Test Started: pazaramaCaseStudy
+[INFO ] 2023-10-01 14:53:07.210 [main] ReusableMethods - Kullanici arama motorunu açarak https://www.pazarama.com sayfasina giriş yapar.
+[INFO ] 2023-10-01 14:53:10.672 [main] ReusableMethods - Kullanıcının https://www.pazarama.com/ adresine başarılı bir şekilde yönlendirildiği doğrulanır.
+[INFO ] 2023-10-01 14:53:10.672 [main] ReusableMethods - Kullanici 'Giriş Yap / Üye Ol ' butonuna tıklar.
+[INFO ] 2023-10-01 14:53:10.827 [main] ReusableMethods - Kullanici 'E-Posta adresiniz' adlı texbox'a e-posta adresini giriş yapar.
+[INFO ] 2023-10-01 14:53:15.494 [main] ReusableMethods - Kullanici 'Şifreniz' adlı texbox'a şifresini giriş yapar.
+[INFO ] 2023-10-01 14:53:16.457 [main] ReusableMethods - Kullanici 'E-Posta' ve 'Şifre' alanlarını doldurarak 'DEVAM' butonuna tıklar.
+[INFO ] 2023-10-01 14:53:19.845 [main] ReusableMethods - Kullanıcı üye girişi bilgilerini giriş yaparakhttps://www.pazarama.com/ adresine yönlendirilir.
+[INFO ] 2023-10-01 14:53:19.889 [main] ReusableMethods - Kullanici'nin doğru üyelik bilgilerini girerek LOGIN olduğu doğrulanır.
+[INFO ] 2023-10-01 14:53:19.906 [main] ReusableMethods - Metro menü  kategorisinde 12 adet item olduğu doğrulanır.
+[INFO ] 2023-10-01 14:53:30.474 [main] ReusableMethods - Menüden rastgele --> Ortopedi Ürünleri kategorisi seçilerek , kategoriye tıklanır.
+[INFO ] 2023-10-01 14:53:37.059 [main] ReusableMethods - Halluks Valgus Gece Ateli Hallux Valgus Düzeltici Tedavi Ayak Başparmak Kemiği Çıkıntısı Bunyonu adlı ürün favorilere eklenir.
+[INFO ] 2023-10-01 14:53:42.673 [main] ReusableMethods - Favoriye eklenen --> 'Halluks Valgus Gece Ateli Hallux Valgus Düzeltici Tedavi Ayak Başparmak Kemiği Çıkıntısı Bunyonu' adlı ürünün favoriler listesine başarılı bir şekilde eklendiği doğrulanır.
+[INFO ] 2023-10-01 14:53:42.676 [main] Listener - pazaramaCaseStudy test is succeed.
+[INFO ] 2023-10-01 14:53:44.106 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-10-01 14:57:35.432 [main] Utils - [TestNG] Running:
+  C:\Users\ata.aydinli\Downloads\PazaramaCaseStudy\Pazarama\src\test\java\XSuites\Smoke.xml
+
+[INFO ] 2023-10-01 14:57:35.441 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-10-01 14:57:39.848 [main] BaseTest - Window size: (1936, 1056)
+[INFO ] 2023-10-01 14:57:39.962 [main] Listener - Test Started: pazaramaCaseStudy
+[INFO ] 2023-10-01 14:57:39.998 [main] ReusableMethods - Kullanici arama motorunu açarak https://www.pazarama.com sayfasina giriş yapar.
+[INFO ] 2023-10-01 14:57:59.619 [main] ReusableMethods - Kullanıcının https://www.pazarama.com/ adresine başarılı bir şekilde yönlendirildiği doğrulanır.
+[INFO ] 2023-10-01 14:57:59.619 [main] ReusableMethods - Kullanici 'Giriş Yap / Üye Ol ' butonuna tıklar.
+[INFO ] 2023-10-01 14:57:59.771 [main] ReusableMethods - Kullanici 'E-Posta adresiniz' adlı texbox'a e-posta adresini giriş yapar.
+[INFO ] 2023-10-01 14:58:07.113 [main] ReusableMethods - Kullanici 'Şifreniz' adlı texbox'a şifresini giriş yapar.
+[INFO ] 2023-10-01 14:58:08.137 [main] ReusableMethods - Kullanici 'E-Posta' ve 'Şifre' alanlarını doldurarak 'DEVAM' butonuna tıklar.
+[INFO ] 2023-10-01 14:58:11.946 [main] ReusableMethods - Kullanıcı üye giriş bilgilerini giriş yaparak https://www.pazarama.com/ adresine yönlendirilir.
+[INFO ] 2023-10-01 14:58:11.993 [main] ReusableMethods - Kullanici'nin üyelik bilgilerini doğru girerek başarılı bir şekilde LOGIN olduğu doğrulanır.
+[INFO ] 2023-10-01 14:58:12.010 [main] ReusableMethods - Metro menü  kategorisinde 12 adet item olduğu doğrulanır.
+[INFO ] 2023-10-01 14:58:21.470 [main] ReusableMethods - Menüden rastgele --> Fotoğraf Filmleri kategorisi seçilerek , kategoriye tıklanır.
+[INFO ] 2023-10-01 14:58:25.710 [main] ReusableMethods - Instax mini 10'lu Film-FOTSN00011b-FOTSN00011b adlı ürün favorilere eklenir.
+[INFO ] 2023-10-01 14:58:31.319 [main] ReusableMethods - Favoriye eklenen --> 'Instax mini 10'lu Film-FOTSN00011b-FOTSN00011b' adlı ürünün favoriler listesine başarılı bir şekilde eklendiği doğrulanır.
+[INFO ] 2023-10-01 14:58:31.322 [main] Listener - pazaramaCaseStudy test is succeed.
+[WARN ] 2023-10-01 14:58:31.357 [AsyncHttpClient-1-4] WebSocketHandler - onError
+java.net.SocketException: Connection reset
+	at sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:401) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:434) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:254) ~[netty-buffer-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[netty-buffer-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[netty-common-4.1.96.Final.jar:4.1.96.Final]
+	at java.lang.Thread.run(Thread.java:1589) ~[?:?]
+[INFO ] 2023-10-01 14:58:32.756 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-10-01 15:08:11.504 [main] Utils - [TestNG] Running:
+  C:\Users\ata.aydinli\Downloads\PazaramaCaseStudy\Pazarama\src\test\java\XSuites\Smoke.xml
+
+[INFO ] 2023-10-01 15:08:11.512 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-10-01 15:08:18.245 [main] BaseTest - Window size: (1936, 1056)
+[INFO ] 2023-10-01 15:08:18.383 [main] Listener - Test Started: pazaramaCaseStudy
+[INFO ] 2023-10-01 15:08:18.433 [main] ReusableMethods - Kullanici arama motorunu açarak https://www.pazarama.com sayfasina giriş yapar.
+[INFO ] 2023-10-01 15:08:24.729 [main] ReusableMethods - Kullanıcının https://www.pazarama.com/ adresine başarılı bir şekilde yönlendirildiği doğrulanır.
+[INFO ] 2023-10-01 15:08:24.729 [main] ReusableMethods - Kullanici 'Giriş Yap / Üye Ol ' butonuna tıklar.
+[INFO ] 2023-10-01 15:08:31.353 [main] ReusableMethods - Kullanici 'E-Posta adresiniz' adlı texbox'a e-posta adresini giriş yapar.
+[INFO ] 2023-10-01 15:08:33.863 [main] ReusableMethods - Kullanici 'Şifreniz' adlı texbox'a şifresini giriş yapar.
+[INFO ] 2023-10-01 15:08:34.813 [main] ReusableMethods - Kullanici 'E-Posta' ve 'Şifre' alanlarını doldurarak 'DEVAM' butonuna tıklar.
+[INFO ] 2023-10-01 15:08:41.545 [main] ReusableMethods - Kullanıcı üye giriş bilgilerini giriş yaparak https://www.pazarama.com/ adresine yönlendirilir.
+[INFO ] 2023-10-01 15:08:41.596 [main] ReusableMethods - Kullanici'nin üyelik bilgilerini doğru girerek başarılı bir şekilde LOGIN olduğu doğrulanır.
+[INFO ] 2023-10-01 15:08:41.615 [main] ReusableMethods - Metro menü  kategorisinde 12 adet item olduğu doğrulanır.
+[INFO ] 2023-10-01 15:08:51.801 [main] ReusableMethods - Menüden rastgele --> Bilim ve Teknik kategorisi seçilerek , kategoriye tıklanır.
+[INFO ] 2023-10-01 15:09:01.687 [main] ReusableMethods - Dünyanın En Yalnız Beyni adlı ürün favorilere eklenir.
+[INFO ] 2023-10-01 15:09:07.854 [main] ReusableMethods - Favoriye eklenen --> 'Dünyanın En Yalnız Beyni' adlı ürünün favoriler listesine başarılı bir şekilde eklendiği doğrulanır.
+[INFO ] 2023-10-01 15:09:07.857 [main] Listener - pazaramaCaseStudy test is succeed.
+[INFO ] 2023-10-01 15:09:09.298 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-10-01 15:10:23.373 [main] Utils - [TestNG] Running:
+  C:\Users\ata.aydinli\Downloads\PazaramaCaseStudy\Pazarama\src\test\java\XSuites\Smoke.xml
+
+[INFO ] 2023-10-01 15:10:23.382 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-10-01 15:10:27.687 [main] BaseTest - Window size: (1936, 1056)
+[INFO ] 2023-10-01 15:10:27.760 [main] Listener - Test Started: pazaramaCaseStudy
+[INFO ] 2023-10-01 15:10:27.788 [main] ReusableMethods - Kullanici arama motorunu açarak https://www.pazarama.com sayfasina giriş yapar.
+[INFO ] 2023-10-01 15:10:32.198 [main] ReusableMethods - Kullanıcının https://www.pazarama.com/ adresine başarılı bir şekilde yönlendirildiği doğrulanır.
+[INFO ] 2023-10-01 15:10:32.198 [main] ReusableMethods - Kullanici 'Giriş Yap / Üye Ol ' butonuna tıklar.
+[INFO ] 2023-10-01 15:10:32.350 [main] ReusableMethods - Kullanici 'E-Posta adresiniz' adlı texbox'a e-posta adresini giriş yapar.
+[INFO ] 2023-10-01 15:10:36.480 [main] ReusableMethods - Kullanici 'Şifreniz' adlı texbox'a şifresini giriş yapar.
+[INFO ] 2023-10-01 15:10:37.454 [main] ReusableMethods - Kullanici 'E-Posta' ve 'Şifre' alanlarını doldurarak 'DEVAM' butonuna tıklar.
+[INFO ] 2023-10-01 15:10:40.489 [main] ReusableMethods - Kullanıcı üye giriş bilgilerini giriş yaparak https://www.pazarama.com/ adresine yönlendirilir.
+[INFO ] 2023-10-01 15:10:40.531 [main] ReusableMethods - Kullanici'nin üyelik bilgilerini doğru girerek başarılı bir şekilde LOGIN olduğu doğrulanır.
+[INFO ] 2023-10-01 15:10:40.550 [main] ReusableMethods - Metro menü  kategorisinde 12 adet item olduğu doğrulanır.
+[INFO ] 2023-10-01 15:10:49.880 [main] ReusableMethods - Menüden rastgele --> Çok Amaçlı Dolap kategorisi seçilerek , kategoriye tıklanır.
+[INFO ] 2023-10-01 15:10:54.011 [main] ReusableMethods - Çok Amaçlı Dolap Mutfak Banyo Dolabı 180 cm adlı ürün favorilere eklenir.
+[INFO ] 2023-10-01 15:11:00.209 [main] Listener - Test Failed: pazaramaCaseStudy
+[ERROR] 2023-10-01 15:11:00.210 [main] Listener - java.lang.AssertionError: Favoriye eklenen ürün favoriler listesine eklenmemiştir. expected [%100 Mdf Çok Amaçlı Dolap Mutfak Bnayo Dolabı 70 cm] but found [Çok Amaçlı Dolap Mutfak Banyo Dolabı 180 cm]
+[INFO ] 2023-10-01 15:11:01.731 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-10-01 15:12:44.581 [main] Utils - [TestNG] Running:
+  C:\Users\ata.aydinli\Downloads\PazaramaCaseStudy\Pazarama\src\test\java\XSuites\Smoke.xml
+
+[INFO ] 2023-10-01 15:12:44.589 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-10-01 15:12:48.963 [main] BaseTest - Window size: (1936, 1056)
+[INFO ] 2023-10-01 15:12:49.030 [main] Listener - Test Started: pazaramaCaseStudy
+[INFO ] 2023-10-01 15:12:49.050 [main] ReusableMethods - Kullanici arama motorunu açarak https://www.pazarama.com sayfasina giriş yapar.
+[INFO ] 2023-10-01 15:12:52.414 [main] ReusableMethods - Kullanıcının https://www.pazarama.com/ adresine başarılı bir şekilde yönlendirildiği doğrulanır.
+[INFO ] 2023-10-01 15:12:52.414 [main] ReusableMethods - Kullanici 'Giriş Yap / Üye Ol ' butonuna tıklar.
+[INFO ] 2023-10-01 15:12:52.577 [main] ReusableMethods - Kullanici 'E-Posta adresiniz' adlı texbox'a e-posta adresini giriş yapar.
+[INFO ] 2023-10-01 15:12:56.877 [main] ReusableMethods - Kullanici 'Şifreniz' adlı texbox'a şifresini giriş yapar.
+[INFO ] 2023-10-01 15:12:57.850 [main] ReusableMethods - Kullanici 'E-Posta' ve 'Şifre' alanlarını doldurarak 'DEVAM' butonuna tıklar.
+[INFO ] 2023-10-01 15:13:00.943 [main] ReusableMethods - Kullanıcı üye giriş bilgilerini giriş yaparak https://www.pazarama.com/ adresine yönlendirilir.
+[INFO ] 2023-10-01 15:13:00.986 [main] ReusableMethods - Kullanici'nin üyelik bilgilerini doğru girerek başarılı bir şekilde LOGIN olduğu doğrulanır.
+[INFO ] 2023-10-01 15:13:01.004 [main] ReusableMethods - Metro menü  kategorisinde 12 adet item olduğu doğrulanır.
+[INFO ] 2023-10-01 15:13:10.350 [main] ReusableMethods - Menüden rastgele --> Oto Lastikler (Diğer) kategorisi seçilerek , kategoriye tıklanır.
+[INFO ] 2023-10-01 15:13:14.871 [main] ReusableMethods - Falken 225 45R19 96Y Azenis FK520 SUV 4x4 Yaz Lastiği adlı ürün favorilere eklenir.
+[INFO ] 2023-10-01 15:13:21.985 [main] ReusableMethods - Favoriye eklenen --> 'Falken 225 45R19 96Y Azenis FK520 SUV 4x4 Yaz Lastiği' adlı ürünün favoriler listesine başarılı bir şekilde eklendiği doğrulanır.
+[INFO ] 2023-10-01 15:13:21.988 [main] Listener - pazaramaCaseStudy test is succeed.
+[WARN ] 2023-10-01 15:13:22.024 [AsyncHttpClient-1-4] WebSocketHandler - onError
+java.net.SocketException: Connection reset
+	at sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:401) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:434) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:254) ~[netty-buffer-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[netty-buffer-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[netty-common-4.1.96.Final.jar:4.1.96.Final]
+	at java.lang.Thread.run(Thread.java:1589) ~[?:?]
+[INFO ] 2023-10-01 15:13:23.421 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-10-01 15:14:08.465 [main] Utils - [TestNG] Running:
+  C:\Users\ata.aydinli\Downloads\PazaramaCaseStudy\Pazarama\src\test\java\XSuites\Smoke.xml
+
+[INFO ] 2023-10-01 15:14:08.473 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-10-01 15:14:13.190 [main] BaseTest - Window size: (1936, 1056)
+[INFO ] 2023-10-01 15:14:13.259 [main] Listener - Test Started: pazaramaCaseStudy
+[INFO ] 2023-10-01 15:14:13.288 [main] ReusableMethods - Kullanici arama motorunu açarak https://www.pazarama.com sayfasina giriş yapar.
+[INFO ] 2023-10-01 15:14:29.974 [main] ReusableMethods - Kullanıcının https://www.pazarama.com/ adresine başarılı bir şekilde yönlendirildiği doğrulanır.
+[INFO ] 2023-10-01 15:14:29.974 [main] ReusableMethods - Kullanici 'Giriş Yap / Üye Ol ' butonuna tıklar.
+[INFO ] 2023-10-01 15:14:30.749 [main] ReusableMethods - Kullanici 'E-Posta adresiniz' adlı texbox'a e-posta adresini giriş yapar.
+[INFO ] 2023-10-01 15:14:38.211 [main] ReusableMethods - Kullanici 'Şifreniz' adlı texbox'a şifresini giriş yapar.
+[INFO ] 2023-10-01 15:14:39.253 [main] ReusableMethods - Kullanici 'E-Posta' ve 'Şifre' alanlarını doldurarak 'DEVAM' butonuna tıklar.
+[INFO ] 2023-10-01 15:14:42.971 [main] ReusableMethods - Kullanıcı üye giriş bilgilerini giriş yaparak https://www.pazarama.com/ adresine yönlendirilir.
+[INFO ] 2023-10-01 15:14:43.012 [main] ReusableMethods - Kullanici'nin üyelik bilgilerini doğru girerek başarılı bir şekilde LOGIN olduğu doğrulanır.
+[INFO ] 2023-10-01 15:14:43.028 [main] ReusableMethods - Metro menü  kategorisinde 12 adet item olduğu doğrulanır.
+[INFO ] 2023-10-01 15:14:53.666 [main] ReusableMethods - Menüden rastgele --> Oto Lastikler (Diğer) kategorisi seçilerek , kategoriye tıklanır.
+[INFO ] 2023-10-01 15:15:00.979 [main] ReusableMethods - Momo M30 Toprun 195/50 R15 82V Yaz Lastiği 2023 Üretimi adlı ürün favorilere eklenir.
+[INFO ] 2023-10-01 15:15:08.093 [main] ReusableMethods - Favoriye eklenen --> 'Momo M30 Toprun 195/50 R15 82V Yaz Lastiği 2023 Üretimi' adlı ürünün favoriler listesine başarılı bir şekilde eklendiği doğrulanır.
+[INFO ] 2023-10-01 15:15:08.095 [main] Listener - pazaramaCaseStudy test is succeed.
+[INFO ] 2023-10-01 15:15:09.540 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-10-01 15:19:02.839 [main] Utils - [TestNG] Running:
+  C:\Users\ata.aydinli\Downloads\PazaramaCaseStudy\Pazarama\src\test\java\XSuites\Smoke.xml
+
+[INFO ] 2023-10-01 15:19:02.849 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-10-01 15:19:07.372 [main] BaseTest - Window size: (1936, 1056)
+[INFO ] 2023-10-01 15:19:07.448 [main] Listener - Test Started: pazaramaCaseStudy
+[INFO ] 2023-10-01 15:19:07.478 [main] ReusableMethods - Kullanici arama motorunu açarak https://www.pazarama.com sayfasina giriş yapar.
+[INFO ] 2023-10-01 15:19:12.555 [main] ReusableMethods - Kullanıcının https://www.pazarama.com/ adresine başarılı bir şekilde yönlendirildiği doğrulanır.
+[INFO ] 2023-10-01 15:19:12.556 [main] ReusableMethods - Kullanici 'Giriş Yap / Üye Ol ' butonuna tıklar.
+[INFO ] 2023-10-01 15:19:12.725 [main] ReusableMethods - Kullanici 'E-Posta adresiniz' adlı texbox'a e-posta adresini giriş yapar.
+[INFO ] 2023-10-01 15:19:17.869 [main] ReusableMethods - Kullanici 'Şifreniz' adlı texbox'a şifresini giriş yapar.
+[INFO ] 2023-10-01 15:19:18.897 [main] ReusableMethods - Kullanici 'E-Posta' ve 'Şifre' alanlarını doldurarak 'DEVAM' butonuna tıklar.
+[INFO ] 2023-10-01 15:19:22.010 [main] ReusableMethods - Kullanıcı üye giriş bilgilerini giriş yaparak https://www.pazarama.com/ adresine yönlendirilir.
+[INFO ] 2023-10-01 15:19:22.054 [main] ReusableMethods - Kullanici'nin üyelik bilgilerini doğru girerek başarılı bir şekilde LOGIN olduğu doğrulanır.
+[INFO ] 2023-10-01 15:19:22.072 [main] ReusableMethods - Metro menü  kategorisinde 12 adet item olduğu doğrulanır.
+[INFO ] 2023-10-01 15:19:31.429 [main] ReusableMethods - Menüden rastgele --> Kadın Büyük Beden kategorisi seçilerek , kategoriye tıklanır.
+[INFO ] 2023-10-01 15:19:35.703 [main] ReusableMethods - Kadın Otantik Bluz Omuz Metal Kuşgözü BGL-ST02038 adlı ürün favorilere eklenir.
+[INFO ] 2023-10-01 15:19:42.803 [main] ReusableMethods - Favoriye eklenen --> 'Kadın Otantik Bluz Omuz Metal Kuşgözü BGL-ST02038' adlı ürünün favoriler listesine başarılı bir şekilde eklendiği doğrulanır.
+[INFO ] 2023-10-01 15:19:42.805 [main] Listener - pazaramaCaseStudy test is succeed.
+[INFO ] 2023-10-01 15:19:44.327 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-10-01 15:34:14.769 [main] Utils - [TestNG] Running:
+  C:\Users\ata.aydinli\Downloads\PazaramaCaseStudy\Pazarama\src\test\java\XSuites\Smoke.xml
+
+[INFO ] 2023-10-01 15:34:14.778 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-10-01 15:34:19.785 [main] BaseTest - Window size: (1936, 1056)
+[INFO ] 2023-10-01 15:34:19.863 [main] Listener - Test Started: pazaramaCaseStudy
+[INFO ] 2023-10-01 15:34:19.883 [main] ReusableMethods - Kullanici arama motorunu açarak https://www.pazarama.com sayfasina giriş yapar.
+[INFO ] 2023-10-01 15:34:31.655 [main] ReusableMethods - Kullanıcının https://www.pazarama.com/ adresine başarılı bir şekilde yönlendirildiği doğrulanır.
+[INFO ] 2023-10-01 15:34:31.656 [main] ReusableMethods - Kullanici 'Giriş Yap / Üye Ol ' butonuna tıklar.
+[INFO ] 2023-10-01 15:34:31.924 [main] ReusableMethods - Kullanici 'E-Posta adresiniz' adlı texbox'a e-posta adresini giriş yapar.
+[INFO ] 2023-10-01 15:34:38.734 [main] ReusableMethods - Kullanici 'Şifreniz' adlı texbox'a şifresini giriş yapar.
+[INFO ] 2023-10-01 15:34:39.718 [main] ReusableMethods - Kullanici 'E-Posta' ve 'Şifre' alanlarını doldurarak 'DEVAM' butonuna tıklar.
+[INFO ] 2023-10-01 15:34:43.310 [main] ReusableMethods - Kullanıcı üye giriş bilgilerini giriş yaparak https://www.pazarama.com/ adresine yönlendirilir.
+[INFO ] 2023-10-01 15:34:43.351 [main] ReusableMethods - Kullanici'nin üyelik bilgilerini doğru girerek başarılı bir şekilde LOGIN olduğu doğrulanır.
+[INFO ] 2023-10-01 15:34:43.369 [main] ReusableMethods - Metro menü  kategorisinde 12 adet item olduğu doğrulanır.
+[INFO ] 2023-10-01 15:34:53.560 [main] ReusableMethods - Menüden rastgele --> Epilasyon, Ağda kategorisi seçilerek , kategoriye tıklanır.
+[INFO ] 2023-10-01 15:34:59.186 [main] ReusableMethods - Taşınabilir Şarjlı Epilatör Cihazı Bikini Kaş Vücut Koltuk Altı Yüz Tüy Temizleyici Epilasyon Aleti adlı ürün favorilere eklenir.
+[INFO ] 2023-10-01 15:35:06.283 [main] ReusableMethods - Favoriye eklenen --> 'Taşınabilir Şarjlı Epilatör Cihazı Bikini Kaş Vücut Koltuk Altı Yüz Tüy Temizleyici Epilasyon Aleti' adlı ürünün favoriler listesine başarılı bir şekilde eklendiği doğrulanır.
+[INFO ] 2023-10-01 15:35:06.286 [main] Listener - pazaramaCaseStudy test is succeed.
+[INFO ] 2023-10-01 15:35:07.740 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-10-01 15:39:36.962 [main] Utils - [TestNG] Running:
+  C:\Users\ata.aydinli\Downloads\PazaramaCaseStudy\Pazarama\src\test\java\XSuites\Smoke.xml
+
+[INFO ] 2023-10-01 15:39:36.970 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-10-01 15:39:41.483 [main] BaseTest - Window size: (1936, 1056)
+[INFO ] 2023-10-01 15:39:41.576 [main] Listener - Test Started: pazaramaCaseStudy
+[INFO ] 2023-10-01 15:39:41.598 [main] ReusableMethods - Kullanici arama motorunu açarak https://www.pazarama.com sayfasina giriş yapar.
+[INFO ] 2023-10-01 15:39:48.753 [main] ReusableMethods - Kullanıcının https://www.pazarama.com/ adresine başarılı bir şekilde yönlendirildiği doğrulanır.
+[INFO ] 2023-10-01 15:39:48.754 [main] ReusableMethods - Kullanici 'Giriş Yap / Üye Ol ' butonuna tıklar.
+[INFO ] 2023-10-01 15:39:56.661 [main] ReusableMethods - Kullanici 'E-Posta adresiniz' adlı texbox'a e-posta adresini giriş yapar.
+[INFO ] 2023-10-01 15:39:59.260 [main] ReusableMethods - Kullanici 'Şifreniz' adlı texbox'a şifresini giriş yapar.
+[INFO ] 2023-10-01 15:40:00.280 [main] ReusableMethods - Kullanici 'E-Posta' ve 'Şifre' alanlarını doldurarak 'DEVAM' butonuna tıklar.
+[INFO ] 2023-10-01 15:40:08.253 [main] ReusableMethods - Kullanıcı üye giriş bilgilerini giriş yaparak https://www.pazarama.com/ adresine yönlendirilir.
+[INFO ] 2023-10-01 15:40:08.307 [main] ReusableMethods - Kullanici'nin üyelik bilgilerini doğru girerek başarılı bir şekilde LOGIN olduğu doğrulanır.
+[INFO ] 2023-10-01 15:40:08.326 [main] ReusableMethods - Metro menü  kategorisinde 12 adet item olduğu doğrulanır.
+[INFO ] 2023-10-01 15:40:14.824 [main] Listener - Test Failed: pazaramaCaseStudy
+[ERROR] 2023-10-01 15:40:14.825 [main] Listener - org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a href="/uzaktan-kumandali-araclar-k-k06337" class="text-gray-600 text-xxs font-normal hover:text-blue-500 hover:underline">...</a> is not clickable at point (444, 912). Other element would receive the click: <div data-v-09be6c34="" class="flex items-center py-5">...</div>
+  (Session info: chrome=117.0.5938.132)
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [73947a7e319a57d29a77c99a7692fe1e, clickElement {id=BA6F8691C461EFBBF994AD21316367D9_element_193}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 117.0.5938.132, chrome: {chromedriverVersion: 117.0.5938.92 (67649b10b92b..., userDataDir: C:\Users\ATA~1.AYD\AppData\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55137}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55137/devtoo..., se:cdpVersion: 117.0.5938.132, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (73947a7e319a57d29a77c99a7692fe1e)] -> xpath: //div[@class='mega-menu-category']//ul/li/a]
+Session ID: 73947a7e319a57d29a77c99a7692fe1e
+[INFO ] 2023-10-01 15:40:16.313 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-10-01 15:40:41.648 [main] Utils - [TestNG] Running:
+  C:\Users\ata.aydinli\Downloads\PazaramaCaseStudy\Pazarama\src\test\java\XSuites\Smoke.xml
+
+[INFO ] 2023-10-01 15:40:41.656 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-10-01 15:40:45.994 [main] BaseTest - Window size: (1936, 1056)
+[INFO ] 2023-10-01 15:40:46.065 [main] Listener - Test Started: pazaramaCaseStudy
+[INFO ] 2023-10-01 15:40:46.092 [main] ReusableMethods - Kullanici arama motorunu açarak https://www.pazarama.com sayfasina giriş yapar.
+[INFO ] 2023-10-01 15:40:49.505 [main] ReusableMethods - Kullanıcının https://www.pazarama.com/ adresine başarılı bir şekilde yönlendirildiği doğrulanır.
+[INFO ] 2023-10-01 15:40:49.506 [main] ReusableMethods - Kullanici 'Giriş Yap / Üye Ol ' butonuna tıklar.
+[INFO ] 2023-10-01 15:40:49.649 [main] ReusableMethods - Kullanici 'E-Posta adresiniz' adlı texbox'a e-posta adresini giriş yapar.
+[INFO ] 2023-10-01 15:40:53.973 [main] ReusableMethods - Kullanici 'Şifreniz' adlı texbox'a şifresini giriş yapar.
+[INFO ] 2023-10-01 15:40:54.952 [main] ReusableMethods - Kullanici 'E-Posta' ve 'Şifre' alanlarını doldurarak 'DEVAM' butonuna tıklar.
+[INFO ] 2023-10-01 15:40:58.170 [main] ReusableMethods - Kullanıcı üye giriş bilgilerini giriş yaparak https://www.pazarama.com/ adresine yönlendirilir.
+[INFO ] 2023-10-01 15:40:58.220 [main] ReusableMethods - Kullanici'nin üyelik bilgilerini doğru girerek başarılı bir şekilde LOGIN olduğu doğrulanır.
+[INFO ] 2023-10-01 15:40:58.237 [main] ReusableMethods - Metro menü  kategorisinde 12 adet item olduğu doğrulanır.
+[INFO ] 2023-10-01 15:41:08.452 [main] ReusableMethods - Menüden rastgele --> Yalancı Emzik ve Aksesuarları kategorisi seçilerek , kategoriye tıklanır.
+[INFO ] 2023-10-01 15:41:16.260 [main] ReusableMethods - Chicco Physio Micro Silikon Emzik Erkek 0-2 Ay 2Li adlı ürün favorilere eklenir.
+[INFO ] 2023-10-01 15:41:23.409 [main] ReusableMethods - Favoriye eklenen --> 'Chicco Physio Micro Silikon Emzik Erkek 0-2 Ay 2Li' adlı ürünün favoriler listesine başarılı bir şekilde eklendiği doğrulanır.
+[INFO ] 2023-10-01 15:41:23.413 [main] Listener - pazaramaCaseStudy test is succeed.
+[INFO ] 2023-10-01 15:41:24.849 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-10-01 15:55:45.389 [main] Utils - [TestNG] Running:
+  C:\Users\ata.aydinli\Downloads\PazaramaCaseStudy\Pazarama\src\test\java\XSuites\Smoke.xml
+
+[INFO ] 2023-10-01 15:55:45.397 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-10-01 15:55:49.816 [main] BaseTest - Window size: (1936, 1056)
+[INFO ] 2023-10-01 15:55:49.903 [main] Listener - Test Started: pazaramaCaseStudy
+[INFO ] 2023-10-01 15:55:49.932 [main] ReusableMethods - Kullanici arama motorunu açarak https://www.pazarama.com sayfasina giriş yapar.
+[INFO ] 2023-10-01 15:55:57.729 [main] ReusableMethods - Kullanıcının https://www.pazarama.com/ adresine başarılı bir şekilde yönlendirildiği doğrulanır.
+[INFO ] 2023-10-01 15:55:57.729 [main] ReusableMethods - Kullanici 'Giriş Yap / Üye Ol ' butonuna tıklar.
+[INFO ] 2023-10-01 15:56:04.327 [main] ReusableMethods - Kullanici 'E-Posta adresiniz' adlı texbox'a e-posta adresini giriş yapar.
+[INFO ] 2023-10-01 15:56:13.564 [main] ReusableMethods - Kullanici 'Şifreniz' adlı texbox'a şifresini giriş yapar.
+[INFO ] 2023-10-01 15:56:14.503 [main] ReusableMethods - Kullanici 'E-Posta' ve 'Şifre' alanlarını doldurarak 'DEVAM' butonuna tıklar.
+[INFO ] 2023-10-01 15:56:19.762 [main] ReusableMethods - Kullanıcı üye giriş bilgilerini giriş yaparak https://www.pazarama.com/ adresine yönlendirilir.
+[INFO ] 2023-10-01 15:56:19.818 [main] ReusableMethods - Kullanici'nin üyelik bilgilerini doğru girerek başarılı bir şekilde LOGIN olduğu doğrulanır.
+[INFO ] 2023-10-01 15:56:19.837 [main] ReusableMethods - Metro menü kategorisinde 12 adet item olduğu doğrulanır.
+[INFO ] 2023-10-01 15:56:26.438 [main] ReusableMethods - Menüden rastgele --> Yalancı Emzik ve Aksesuarları kategorisi seçilerek , kategoriye tıklanır.
+[INFO ] 2023-10-01 15:56:31.867 [main] Listener - Test Failed: pazaramaCaseStudy
+[ERROR] 2023-10-01 15:56:31.868 [main] Listener - java.lang.IllegalArgumentException: bound must be positive
+[INFO ] 2023-10-01 15:56:33.428 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-10-01 15:56:42.510 [main] Utils - [TestNG] Running:
+  C:\Users\ata.aydinli\Downloads\PazaramaCaseStudy\Pazarama\src\test\java\XSuites\Smoke.xml
+
+[INFO ] 2023-10-01 15:56:42.517 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-10-01 15:56:46.836 [main] BaseTest - Window size: (1936, 1056)
+[INFO ] 2023-10-01 15:56:46.906 [main] Listener - Test Started: pazaramaCaseStudy
+[INFO ] 2023-10-01 15:56:46.924 [main] ReusableMethods - Kullanici arama motorunu açarak https://www.pazarama.com sayfasina giriş yapar.
+[INFO ] 2023-10-01 15:56:50.486 [main] ReusableMethods - Kullanıcının https://www.pazarama.com/ adresine başarılı bir şekilde yönlendirildiği doğrulanır.
+[INFO ] 2023-10-01 15:56:50.486 [main] ReusableMethods - Kullanici 'Giriş Yap / Üye Ol ' butonuna tıklar.
+[INFO ] 2023-10-01 15:56:50.642 [main] ReusableMethods - Kullanici 'E-Posta adresiniz' adlı texbox'a e-posta adresini giriş yapar.
+[INFO ] 2023-10-01 15:56:54.949 [main] ReusableMethods - Kullanici 'Şifreniz' adlı texbox'a şifresini giriş yapar.
+[INFO ] 2023-10-01 15:56:55.913 [main] ReusableMethods - Kullanici 'E-Posta' ve 'Şifre' alanlarını doldurarak 'DEVAM' butonuna tıklar.
+[INFO ] 2023-10-01 15:56:59.144 [main] ReusableMethods - Kullanıcı üye giriş bilgilerini giriş yaparak https://www.pazarama.com/ adresine yönlendirilir.
+[INFO ] 2023-10-01 15:56:59.186 [main] ReusableMethods - Kullanici'nin üyelik bilgilerini doğru girerek başarılı bir şekilde LOGIN olduğu doğrulanır.
+[INFO ] 2023-10-01 15:56:59.203 [main] ReusableMethods - Metro menü kategorisinde 12 adet item olduğu doğrulanır.
+[INFO ] 2023-10-01 15:57:04.532 [main] ReusableMethods - Menüden rastgele --> Çocuk Takı ve Aksesuar kategorisi seçilerek , kategoriye tıklanır.
+[INFO ] 2023-10-01 15:57:05.726 [main] Listener - Test Failed: pazaramaCaseStudy
+[ERROR] 2023-10-01 15:57:05.727 [main] Listener - java.lang.IllegalArgumentException: bound must be positive
+[INFO ] 2023-10-01 15:57:07.266 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-10-01 15:57:47.985 [main] Utils - [TestNG] Running:
+  C:\Users\ata.aydinli\Downloads\PazaramaCaseStudy\Pazarama\src\test\java\XSuites\Smoke.xml
+
+[INFO ] 2023-10-01 15:57:47.993 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-10-01 15:57:52.335 [main] BaseTest - Window size: (1936, 1056)
+[INFO ] 2023-10-01 15:57:52.410 [main] Listener - Test Started: pazaramaCaseStudy
+[INFO ] 2023-10-01 15:57:52.434 [main] ReusableMethods - Kullanici arama motorunu açarak https://www.pazarama.com sayfasina giriş yapar.
+[INFO ] 2023-10-01 15:57:55.890 [main] ReusableMethods - Kullanıcının https://www.pazarama.com/ adresine başarılı bir şekilde yönlendirildiği doğrulanır.
+[INFO ] 2023-10-01 15:57:55.890 [main] ReusableMethods - Kullanici 'Giriş Yap / Üye Ol ' butonuna tıklar.
+[INFO ] 2023-10-01 15:57:56.057 [main] ReusableMethods - Kullanici 'E-Posta adresiniz' adlı texbox'a e-posta adresini giriş yapar.
+[INFO ] 2023-10-01 15:58:01.676 [main] ReusableMethods - Kullanici 'Şifreniz' adlı texbox'a şifresini giriş yapar.
+[INFO ] 2023-10-01 15:58:02.652 [main] ReusableMethods - Kullanici 'E-Posta' ve 'Şifre' alanlarını doldurarak 'DEVAM' butonuna tıklar.
+[INFO ] 2023-10-01 15:58:06.120 [main] ReusableMethods - Kullanıcı üye giriş bilgilerini giriş yaparak https://www.pazarama.com/ adresine yönlendirilir.
+[INFO ] 2023-10-01 15:58:06.166 [main] ReusableMethods - Kullanici'nin üyelik bilgilerini doğru girerek başarılı bir şekilde LOGIN olduğu doğrulanır.
+[INFO ] 2023-10-01 15:58:06.184 [main] ReusableMethods - Metro menü kategorisinde 12 adet item olduğu doğrulanır.
+[INFO ] 2023-10-01 15:58:12.686 [main] Listener - Test Failed: pazaramaCaseStudy
+[ERROR] 2023-10-01 15:58:12.687 [main] Listener - org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a href="/erkek-ic-giyimuyku-giyim-k-K08077" class="text-gray-600 text-xxs font-normal hover:text-blue-500 hover:underline">...</a> is not clickable at point (440, 910). Other element would receive the click: <div data-v-09be6c34="" class="flex items-center py-5">...</div>
+  (Session info: chrome=117.0.5938.132)
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ed465c20656de0e051003dd6e130b8f5, clickElement {id=719B8DE1F51769CE2B8BFC8869FF8698_element_195}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 117.0.5938.132, chrome: {chromedriverVersion: 117.0.5938.92 (67649b10b92b..., userDataDir: C:\Users\ATA~1.AYD\AppData\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56368}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56368/devtoo..., se:cdpVersion: 117.0.5938.132, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (ed465c20656de0e051003dd6e130b8f5)] -> xpath: //div[@class='mega-menu-category']//ul/li/a]
+Session ID: ed465c20656de0e051003dd6e130b8f5
+[INFO ] 2023-10-01 15:58:14.243 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-10-01 15:58:42.600 [main] Utils - [TestNG] Running:
+  C:\Users\ata.aydinli\Downloads\PazaramaCaseStudy\Pazarama\src\test\java\XSuites\Smoke.xml
+
+[INFO ] 2023-10-01 15:58:42.609 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-10-01 15:58:47.021 [main] BaseTest - Window size: (1936, 1056)
+[INFO ] 2023-10-01 15:58:47.091 [main] Listener - Test Started: pazaramaCaseStudy
+[INFO ] 2023-10-01 15:58:47.115 [main] ReusableMethods - Kullanici arama motorunu açarak https://www.pazarama.com sayfasina giriş yapar.
+[INFO ] 2023-10-01 15:58:50.791 [main] ReusableMethods - Kullanıcının https://www.pazarama.com/ adresine başarılı bir şekilde yönlendirildiği doğrulanır.
+[INFO ] 2023-10-01 15:58:50.792 [main] ReusableMethods - Kullanici 'Giriş Yap / Üye Ol ' butonuna tıklar.
+[INFO ] 2023-10-01 15:58:50.938 [main] ReusableMethods - Kullanici 'E-Posta adresiniz' adlı texbox'a e-posta adresini giriş yapar.
+[INFO ] 2023-10-01 15:58:55.389 [main] ReusableMethods - Kullanici 'Şifreniz' adlı texbox'a şifresini giriş yapar.
+[INFO ] 2023-10-01 15:58:56.353 [main] ReusableMethods - Kullanici 'E-Posta' ve 'Şifre' alanlarını doldurarak 'DEVAM' butonuna tıklar.
+[INFO ] 2023-10-01 15:58:59.701 [main] ReusableMethods - Kullanıcı üye giriş bilgilerini giriş yaparak https://www.pazarama.com/ adresine yönlendirilir.
+[INFO ] 2023-10-01 15:58:59.777 [main] ReusableMethods - Kullanici'nin üyelik bilgilerini doğru girerek başarılı bir şekilde LOGIN olduğu doğrulanır.
+[INFO ] 2023-10-01 15:58:59.796 [main] ReusableMethods - Metro menü kategorisinde 12 adet item olduğu doğrulanır.
+[INFO ] 2023-10-01 15:59:09.158 [main] ReusableMethods - Menüden rastgele --> Emzirme ve Hamile Yastığı kategorisi seçilerek , kategoriye tıklanır.
+[INFO ] 2023-10-01 15:59:14.085 [main] ReusableMethods - Babyjem Emzirme Ve Destek Minderi Pembe Yonca adlı ürün favorilere eklenir.
+[INFO ] 2023-10-01 15:59:21.181 [main] ReusableMethods - Kullanıcı başarılı bir şekilde https://www.pazarama.com/hesabim/begendiklerim adresine yönlendirilir.
+[INFO ] 2023-10-01 15:59:21.201 [main] ReusableMethods - Favoriye eklenen --> 'Babyjem Emzirme Ve Destek Minderi Pembe Yonca' adlı ürünün favoriler listesine başarılı bir şekilde eklendiği doğrulanır.
+[INFO ] 2023-10-01 15:59:21.204 [main] Listener - pazaramaCaseStudy test is succeed.
+[INFO ] 2023-10-01 15:59:22.668 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-10-01 16:00:16.475 [main] Utils - [TestNG] Running:
+  C:\Users\ata.aydinli\Downloads\PazaramaCaseStudy\Pazarama\src\test\java\XSuites\Smoke.xml
+
+[INFO ] 2023-10-01 16:00:16.483 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-10-01 16:00:21.330 [main] BaseTest - Window size: (1936, 1056)
+[INFO ] 2023-10-01 16:00:21.406 [main] Listener - Test Started: pazaramaCaseStudy
+[INFO ] 2023-10-01 16:00:21.434 [main] ReusableMethods - Kullanici arama motorunu açarak https://www.pazarama.com sayfasina giriş yapar.
+[INFO ] 2023-10-01 16:00:23.289 [main] ReusableMethods - Kullanıcının https://www.pazarama.com/ adresine başarılı bir şekilde yönlendirildiği doğrulanır.
+[INFO ] 2023-10-01 16:00:23.290 [main] ReusableMethods - Kullanici 'Giriş Yap / Üye Ol ' butonuna tıklar.
+[INFO ] 2023-10-01 16:00:24.814 [main] ReusableMethods - Kullanici 'E-Posta adresiniz' adlı texbox'a e-posta adresini giriş yapar.
+[INFO ] 2023-10-01 16:00:29.028 [main] ReusableMethods - Kullanici 'Şifreniz' adlı texbox'a şifresini giriş yapar.
+[INFO ] 2023-10-01 16:00:29.999 [main] ReusableMethods - Kullanici 'E-Posta' ve 'Şifre' alanlarını doldurarak 'DEVAM' butonuna tıklar.
+[INFO ] 2023-10-01 16:00:33.062 [main] ReusableMethods - Kullanıcı üye giriş bilgilerini giriş yaparak https://www.pazarama.com/ adresine yönlendirilir.
+[INFO ] 2023-10-01 16:00:33.104 [main] ReusableMethods - Kullanici'nin üyelik bilgilerini doğru girerek başarılı bir şekilde LOGIN olduğu doğrulanır.
+[INFO ] 2023-10-01 16:00:33.122 [main] ReusableMethods - Metro menü kategorisinde 12 adet item olduğu doğrulanır.
+[INFO ] 2023-10-01 16:00:42.466 [main] ReusableMethods - Menüden rastgele --> Dans, Bale kategorisi seçilerek , kategoriye tıklanır.
+[INFO ] 2023-10-01 16:00:47.166 [main] ReusableMethods - 288 Siyah Halkalı Çalışma Mayosu adlı ürün favorilere eklenir.
+[INFO ] 2023-10-01 16:00:54.259 [main] ReusableMethods - Kullanıcı başarılı bir şekilde https://www.pazarama.com/hesabim/begendiklerim adresine yönlendirilir.
+[INFO ] 2023-10-01 16:00:54.284 [main] ReusableMethods - Favoriye eklenen --> '288 Siyah Halkalı Çalışma Mayosu' adlı ürünün favoriler listesine başarılı bir şekilde eklendiği doğrulanır.
+[INFO ] 2023-10-01 16:00:54.286 [main] Listener - pazaramaCaseStudy test is succeed.
+[WARN ] 2023-10-01 16:00:54.363 [AsyncHttpClient-1-4] WebSocketHandler - onError
+java.net.SocketException: Connection reset
+	at sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:401) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:434) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:254) ~[netty-buffer-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[netty-buffer-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[netty-common-4.1.96.Final.jar:4.1.96.Final]
+	at java.lang.Thread.run(Thread.java:1589) ~[?:?]
+[INFO ] 2023-10-01 16:00:55.762 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-10-01 16:03:23.356 [main] Utils - [TestNG] Running:
+  C:\Users\ata.aydinli\Downloads\PazaramaCaseStudy\Pazarama\src\test\java\XSuites\Smoke.xml
+
+[INFO ] 2023-10-01 16:03:23.366 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-10-01 16:03:27.818 [main] BaseTest - Window size: (1936, 1056)
+[INFO ] 2023-10-01 16:03:27.896 [main] Listener - Test Started: pazaramaCaseStudy
+[INFO ] 2023-10-01 16:03:27.925 [main] ReusableMethods - Kullanici arama motorunu açarak https://www.pazarama.com sayfasina giriş yapar.
+[INFO ] 2023-10-01 16:03:41.007 [main] ReusableMethods - Kullanıcının https://www.pazarama.com/ adresine başarılı bir şekilde yönlendirildiği doğrulanır.
+[INFO ] 2023-10-01 16:03:41.007 [main] ReusableMethods - Kullanici 'Giriş Yap / Üye Ol ' butonuna tıklar.
+[INFO ] 2023-10-01 16:03:41.148 [main] ReusableMethods - Kullanici 'E-Posta adresiniz' adlı texbox'a e-posta adresini giriş yapar.
+[INFO ] 2023-10-01 16:03:48.944 [main] ReusableMethods - Kullanici 'Şifreniz' adlı texbox'a şifresini giriş yapar.
+[INFO ] 2023-10-01 16:03:49.912 [main] ReusableMethods - Kullanici 'E-Posta' ve 'Şifre' alanlarını doldurarak 'DEVAM' butonuna tıklar.
+[INFO ] 2023-10-01 16:03:54.696 [main] ReusableMethods - Kullanıcı üye giriş bilgilerini giriş yaparak https://www.pazarama.com/ adresine yönlendirilir.
+[INFO ] 2023-10-01 16:03:54.744 [main] ReusableMethods - Kullanici'nin üyelik bilgilerini doğru girerek başarılı bir şekilde LOGIN olduğu doğrulanır.
+[INFO ] 2023-10-01 16:03:54.766 [main] ReusableMethods - Metro menü kategorisinde 12 adet item olduğu doğrulanır.
+[INFO ] 2023-10-01 16:04:05.675 [main] ReusableMethods - Menüden rastgele --> Kağıt Ürünler kategorisi seçilerek , kategoriye tıklanır.
+[INFO ] 2023-10-01 16:04:15.313 [main] ReusableMethods - A4 Fotokopi Kağıdı 200 lü Pk adlı ürün favorilere eklenir.
+[INFO ] 2023-10-01 16:04:22.419 [main] ReusableMethods - Kullanıcı başarılı bir şekilde https://www.pazarama.com/hesabim/begendiklerim adresine yönlendirilir.
+[INFO ] 2023-10-01 16:04:22.444 [main] ReusableMethods - Favoriye eklenen --> 'A4 Fotokopi Kağıdı 200 lü Pk' adlı ürünün favoriler listesine başarılı bir şekilde eklendiği doğrulanır.
+[INFO ] 2023-10-01 16:04:22.446 [main] Listener - pazaramaCaseStudy test is succeed.
+[INFO ] 2023-10-01 16:04:23.912 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-10-01 16:21:58.110 [main] Utils - [TestNG] Running:
+  C:\Users\ata.aydinli\Downloads\PazaramaCaseStudy\Pazarama\src\test\java\XSuites\Smoke.xml
+
+[INFO ] 2023-10-01 16:21:58.122 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-10-01 16:22:08.995 [main] BaseTest - Window size: (1936, 1056)
+[INFO ] 2023-10-01 16:22:09.101 [main] Listener - Test Started: pazaramaCaseStudy
+[INFO ] 2023-10-01 16:22:09.135 [main] ReusableMethods - Kullanici arama motorunu açarak https://www.pazarama.com sayfasina giriş yapar.
+[INFO ] 2023-10-01 16:22:26.856 [main] ReusableMethods - Kullanıcının https://www.pazarama.com/ adresine başarılı bir şekilde yönlendirildiği doğrulanır.
+[INFO ] 2023-10-01 16:22:26.857 [main] ReusableMethods - Kullanici 'Giriş Yap / Üye Ol ' butonuna tıklar.
+[INFO ] 2023-10-01 16:22:27.143 [main] ReusableMethods - Kullanici 'E-Posta adresiniz' adlı texbox'a e-posta adresini giriş yapar.
+[INFO ] 2023-10-01 16:22:36.825 [main] ReusableMethods - Kullanici 'Şifreniz' adlı texbox'a şifresini giriş yapar.
+[INFO ] 2023-10-01 16:22:38.358 [main] ReusableMethods - Kullanici 'E-Posta' ve 'Şifre' alanlarını doldurarak 'DEVAM' butonuna tıklar.
+[INFO ] 2023-10-01 16:22:44.250 [main] ReusableMethods - Kullanıcı üye giriş bilgilerini giriş yaparak https://www.pazarama.com/ adresine yönlendirilir.
+[INFO ] 2023-10-01 16:22:44.328 [main] ReusableMethods - Kullanici'nin üyelik bilgilerini doğru girerek başarılı bir şekilde LOGIN olduğu doğrulanır.
+[INFO ] 2023-10-01 16:22:44.360 [main] ReusableMethods - Metro menü kategorisinde 12 adet item olduğu doğrulanır.
+[INFO ] 2023-10-01 16:22:54.990 [main] ReusableMethods - Menüden rastgele --> Katı Yakıt Sobası kategorisi seçilerek , kategoriye tıklanır.
+[INFO ] 2023-10-01 16:23:04.693 [main] ReusableMethods - Gürateş Fujii 12 KW Çift Fırınlı Şömine Soba-Bordo adlı ürün favorilere eklenir.
+[INFO ] 2023-10-01 16:23:11.884 [main] ReusableMethods - Kullanıcı başarılı bir şekilde https://www.pazarama.com/hesabim/begendiklerim adresine yönlendirilir.
+[INFO ] 2023-10-01 16:23:11.933 [main] ReusableMethods - Favoriye eklenen --> 'Gürateş Fujii 12 KW Çift Fırınlı Şömine Soba-Bordo' adlı ürünün favoriler listesine başarılı bir şekilde eklendiği doğrulanır.
+[INFO ] 2023-10-01 16:23:11.940 [main] Listener - pazaramaCaseStudy test is succeed.
+[INFO ] 2023-10-01 16:23:13.922 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-10-01 16:25:53.724 [main] Utils - [TestNG] Running:
+  C:\Users\ata.aydinli\Downloads\PazaramaCaseStudy\Pazarama\src\test\java\XSuites\Smoke.xml
+
+[INFO ] 2023-10-01 16:25:53.735 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-10-01 16:26:00.989 [main] BaseTest - Window size: (1936, 1056)
+[INFO ] 2023-10-01 16:26:01.098 [main] Listener - Test Started: pazaramaCaseStudy
+[INFO ] 2023-10-01 16:26:01.124 [main] ReusableMethods - Kullanici arama motorunu açarak https://www.pazarama.com sayfasina giriş yapar.
+[INFO ] 2023-10-01 16:26:06.374 [main] ReusableMethods - Kullanıcının https://www.pazarama.com/ adresine başarılı bir şekilde yönlendirildiği doğrulanır.
+[INFO ] 2023-10-01 16:26:06.375 [main] ReusableMethods - Kullanici 'Giriş Yap / Üye Ol ' butonuna tıklar.
+[INFO ] 2023-10-01 16:26:06.646 [main] ReusableMethods - Kullanici 'E-Posta adresiniz' adlı texbox'a e-posta adresini giriş yapar.
+[INFO ] 2023-10-01 16:26:12.797 [main] ReusableMethods - Kullanici 'Şifreniz' adlı texbox'a şifresini giriş yapar.
+[INFO ] 2023-10-01 16:26:14.255 [main] ReusableMethods - Kullanici 'E-Posta' ve 'Şifre' alanlarını doldurarak 'DEVAM' butonuna tıklar.
+[INFO ] 2023-10-01 16:26:18.901 [main] ReusableMethods - Kullanıcı üye giriş bilgilerini giriş yaparak https://www.pazarama.com/ adresine yönlendirilir.
+[INFO ] 2023-10-01 16:26:19.021 [main] ReusableMethods - Kullanici'nin üyelik bilgilerini doğru girerek başarılı bir şekilde LOGIN olduğu doğrulanır.
+[INFO ] 2023-10-01 16:26:19.048 [main] ReusableMethods - Metro menü kategorisinde 12 adet item olduğu doğrulanır.
+[INFO ] 2023-10-01 16:26:28.541 [main] ReusableMethods - Menüden rastgele --> Kadın Tulum,Salopet kategorisi seçilerek , kategoriye tıklanır.
+[INFO ] 2023-10-01 16:26:33.037 [main] ReusableMethods - Gymwolves Kadın Seamless Tulum adlı ürün favorilere eklenir.
+[INFO ] 2023-10-01 16:26:40.214 [main] ReusableMethods - Kullanıcı başarılı bir şekilde https://www.pazarama.com/hesabim/begendiklerim adresine yönlendirilir.
+[INFO ] 2023-10-01 16:26:40.261 [main] ReusableMethods - Favoriye eklenen --> 'Gymwolves Kadın Seamless Tulum' adlı ürünün favoriler listesine başarılı bir şekilde eklendiği doğrulanır.
+[INFO ] 2023-10-01 16:26:40.267 [main] Listener - pazaramaCaseStudy test is succeed.
+[WARN ] 2023-10-01 16:26:40.526 [AsyncHttpClient-1-4] WebSocketHandler - onError
+java.net.SocketException: Connection reset
+	at sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:401) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:434) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:254) ~[netty-buffer-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[netty-buffer-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[netty-common-4.1.96.Final.jar:4.1.96.Final]
+	at java.lang.Thread.run(Thread.java:1589) ~[?:?]
+[INFO ] 2023-10-01 16:26:42.152 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-10-01 16:29:18.683 [main] Utils - [TestNG] Running:
+  C:\Users\ata.aydinli\Downloads\PazaramaCaseStudy\Pazarama\src\test\java\XSuites\Smoke.xml
+
+[INFO ] 2023-10-01 16:29:18.696 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-10-01 16:29:25.159 [main] BaseTest - Window size: (1936, 1056)
+[INFO ] 2023-10-01 16:29:25.249 [main] Listener - Test Started: pazaramaCaseStudy
+[INFO ] 2023-10-01 16:29:25.282 [main] ReusableMethods - Kullanici arama motorunu açarak https://www.pazarama.com sayfasina giriş yapar.
+[INFO ] 2023-10-01 16:29:33.895 [main] ReusableMethods - Kullanıcının https://www.pazarama.com/ adresine başarılı bir şekilde yönlendirildiği doğrulanır.
+[INFO ] 2023-10-01 16:29:33.896 [main] ReusableMethods - Kullanici 'Giriş Yap / Üye Ol ' butonuna tıklar.
+[INFO ] 2023-10-01 16:29:47.619 [main] ReusableMethods - Kullanici 'E-Posta adresiniz' adlı texbox'a e-posta adresini giriş yapar.
+[INFO ] 2023-10-01 16:29:51.704 [main] ReusableMethods - Kullanici 'Şifreniz' adlı texbox'a şifresini giriş yapar.
+[INFO ] 2023-10-01 16:29:52.902 [main] ReusableMethods - Kullanici 'E-Posta' ve 'Şifre' alanlarını doldurarak 'DEVAM' butonuna tıklar.
+[INFO ] 2023-10-01 16:29:57.920 [main] ReusableMethods - Kullanıcı üye giriş bilgilerini giriş yaparak https://www.pazarama.com/ adresine yönlendirilir.
+[INFO ] 2023-10-01 16:29:58.015 [main] ReusableMethods - Kullanici'nin üyelik bilgilerini doğru girerek başarılı bir şekilde LOGIN olduğu doğrulanır.
+[INFO ] 2023-10-01 16:29:58.039 [main] ReusableMethods - Metro menü kategorisinde 12 adet item olduğu doğrulanır.
+[INFO ] 2023-10-01 16:30:08.834 [main] ReusableMethods - Menüden rastgele --> Atıştırmalık kategorisi seçilerek , kategoriye tıklanır.
+[INFO ] 2023-10-01 16:30:25.106 [main] ReusableMethods - Züber Çilekli ve Kakaolu Meyve Tatlısı - 12 Adet x 40Gr adlı ürün favorilere eklenir.
+[INFO ] 2023-10-01 16:30:32.347 [main] ReusableMethods - Kullanıcı başarılı bir şekilde https://www.pazarama.com/hesabim/begendiklerim adresine yönlendirilir.
+[INFO ] 2023-10-01 16:30:32.377 [main] ReusableMethods - Favoriye eklenen --> 'Züber Çilekli ve Kakaolu Meyve Tatlısı - 12 Adet x 40Gr' adlı ürünün favoriler listesine başarılı bir şekilde eklendiği doğrulanır.
+[INFO ] 2023-10-01 16:30:32.380 [main] Listener - pazaramaCaseStudy test is succeed.
+[INFO ] 2023-10-01 16:30:34.159 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-10-01 16:32:32.701 [main] Utils - [TestNG] Running:
+  C:\Users\ata.aydinli\Downloads\PazaramaCaseStudy\Pazarama\src\test\java\XSuites\Smoke.xml
+
+[INFO ] 2023-10-01 16:32:32.713 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-10-01 16:32:39.631 [main] BaseTest - Window size: (1936, 1056)
+[INFO ] 2023-10-01 16:32:39.727 [main] Listener - Test Started: pazaramaCaseStudy
+[INFO ] 2023-10-01 16:32:39.762 [main] ReusableMethods - Kullanici arama motorunu açarak https://www.pazarama.com sayfasina giriş yapar.
+[INFO ] 2023-10-01 16:32:42.308 [main] ReusableMethods - Kullanıcının https://www.pazarama.com/ adresine başarılı bir şekilde yönlendirildiği doğrulanır.
+[INFO ] 2023-10-01 16:32:42.308 [main] ReusableMethods - Kullanici 'Giriş Yap / Üye Ol ' butonuna tıklar.
+[INFO ] 2023-10-01 16:32:45.081 [main] ReusableMethods - Kullanici 'E-Posta adresiniz' adlı texbox'a e-posta adresini giriş yapar.
+[INFO ] 2023-10-01 16:32:51.040 [main] ReusableMethods - Kullanici 'Şifreniz' adlı texbox'a şifresini giriş yapar.
+[INFO ] 2023-10-01 16:32:52.559 [main] ReusableMethods - Kullanici 'E-Posta' ve 'Şifre' alanlarını doldurarak 'DEVAM' butonuna tıklar.
+[INFO ] 2023-10-01 16:32:57.533 [main] ReusableMethods - Kullanıcı üye giriş bilgilerini giriş yaparak https://www.pazarama.com/ adresine yönlendirilir.
+[INFO ] 2023-10-01 16:32:57.659 [main] ReusableMethods - Kullanici'nin üyelik bilgilerini doğru girerek başarılı bir şekilde LOGIN olduğu doğrulanır.
+[INFO ] 2023-10-01 16:32:57.685 [main] ReusableMethods - Metro menü kategorisinde 12 adet item olduğu doğrulanır.
+[INFO ] 2023-10-01 16:33:07.178 [main] ReusableMethods - Menüden rastgele --> Bebek Ağız Ve Diş Bakımı kategorisi seçilerek , kategoriye tıklanır.
+[INFO ] 2023-10-01 16:33:11.386 [main] ReusableMethods - Wee Baby Silikon Diş Halkası adlı ürün favorilere eklenir.
+[INFO ] 2023-10-01 16:33:18.565 [main] ReusableMethods - Kullanıcı başarılı bir şekilde https://www.pazarama.com/hesabim/begendiklerim adresine yönlendirilir.
+[INFO ] 2023-10-01 16:33:18.604 [main] ReusableMethods - Favoriye eklenen --> 'Wee Baby Silikon Diş Halkası' adlı ürünün favoriler listesine başarılı bir şekilde eklendiği doğrulanır.
+[INFO ] 2023-10-01 16:33:18.608 [main] Listener - pazaramaCaseStudy test is succeed.
+[INFO ] 2023-10-01 16:33:20.383 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-10-01 16:36:24.921 [main] Utils - [TestNG] Running:
+  C:\Users\ata.aydinli\Downloads\PazaramaCaseStudy\Pazarama\src\test\java\XSuites\Smoke.xml
+
+[INFO ] 2023-10-01 16:36:24.933 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-10-01 16:36:31.781 [main] BaseTest - Window size: (1936, 1056)
+[INFO ] 2023-10-01 16:36:31.891 [main] Listener - Test Started: pazaramaCaseStudy
+[INFO ] 2023-10-01 16:36:31.924 [main] ReusableMethods - Kullanici arama motorunu açarak https://www.pazarama.com sayfasina giriş yapar.
+[INFO ] 2023-10-01 16:36:46.704 [main] ReusableMethods - Kullanıcının https://www.pazarama.com/ adresine başarılı bir şekilde yönlendirildiği doğrulanır.
+[INFO ] 2023-10-01 16:36:46.704 [main] ReusableMethods - Kullanici 'Giriş Yap / Üye Ol ' butonuna tıklar.
+[INFO ] 2023-10-01 16:36:47.018 [main] ReusableMethods - Kullanici 'E-Posta adresiniz' adlı texbox'a e-posta adresini giriş yapar.
+[INFO ] 2023-10-01 16:36:55.724 [main] ReusableMethods - Kullanici 'Şifreniz' adlı texbox'a şifresini giriş yapar.
+[INFO ] 2023-10-01 16:36:57.167 [main] ReusableMethods - Kullanici 'E-Posta' ve 'Şifre' alanlarını doldurarak 'DEVAM' butonuna tıklar.
+[INFO ] 2023-10-01 16:37:01.552 [main] ReusableMethods - Kullanıcı üye giriş bilgilerini giriş yaparak https://www.pazarama.com/ adresine yönlendirilir.
+[INFO ] 2023-10-01 16:37:01.618 [main] ReusableMethods - Kullanici'nin üyelik bilgilerini doğru girerek başarılı bir şekilde LOGIN olduğu doğrulanır.
+[INFO ] 2023-10-01 16:37:01.644 [main] ReusableMethods - Metro menü kategorisinde 12 adet item olduğu doğrulanır.
+[INFO ] 2023-10-01 16:37:12.103 [main] ReusableMethods - Menüden rastgele --> E-Pin ve Cüzdan Kodları kategorisi seçilerek , kategoriye tıklanır.
+[INFO ] 2023-10-01 16:37:20.887 [main] ReusableMethods - Fizy Premium 1 Haftalık adlı ürün favorilere eklenir.
+[INFO ] 2023-10-01 16:37:28.035 [main] ReusableMethods - Kullanıcı başarılı bir şekilde https://www.pazarama.com/hesabim/begendiklerim adresine yönlendirilir.
+[INFO ] 2023-10-01 16:37:28.087 [main] ReusableMethods - Favoriye eklenen --> 'Fizy Premium 1 Haftalık' adlı ürünün favoriler listesine başarılı bir şekilde eklendiği doğrulanır.
+[INFO ] 2023-10-01 16:37:28.094 [main] Listener - pazaramaCaseStudy test is succeed.
+[INFO ] 2023-10-01 16:37:29.965 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-10-01 16:39:52.380 [main] Utils - [TestNG] Running:
+  C:\Users\ata.aydinli\Downloads\PazaramaCaseStudy\Pazarama\src\test\java\XSuites\Smoke.xml
+
+[INFO ] 2023-10-01 16:39:52.397 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-10-01 16:39:58.884 [main] BaseTest - Window size: (1936, 1056)
+[INFO ] 2023-10-01 16:39:58.986 [main] Listener - Test Started: pazaramaCaseStudy
+[INFO ] 2023-10-01 16:39:59.032 [main] ReusableMethods - Kullanici arama motorunu açarak https://www.pazarama.com sayfasina giriş yapar.
+[INFO ] 2023-10-01 16:40:02.526 [main] ReusableMethods - Kullanıcının https://www.pazarama.com/ adresine başarılı bir şekilde yönlendirildiği doğrulanır.
+[INFO ] 2023-10-01 16:40:02.527 [main] ReusableMethods - Kullanici 'Giriş Yap / Üye Ol ' butonuna tıklar.
+[INFO ] 2023-10-01 16:40:05.333 [main] ReusableMethods - Kullanici 'E-Posta adresiniz' adlı texbox'a e-posta adresini giriş yapar.
+[INFO ] 2023-10-01 16:40:11.349 [main] ReusableMethods - Kullanici 'Şifreniz' adlı texbox'a şifresini giriş yapar.
+[INFO ] 2023-10-01 16:40:12.661 [main] ReusableMethods - Kullanici 'E-Posta' ve 'Şifre' alanlarını doldurarak 'DEVAM' butonuna tıklar.
+[INFO ] 2023-10-01 16:40:17.284 [main] ReusableMethods - Kullanıcı üye giriş bilgilerini giriş yaparak https://www.pazarama.com/ adresine yönlendirilir.
+[INFO ] 2023-10-01 16:40:17.357 [main] ReusableMethods - Kullanici'nin üyelik bilgilerini doğru girerek başarılı bir şekilde LOGIN olduğu doğrulanır.
+[INFO ] 2023-10-01 16:40:17.417 [main] ReusableMethods - Metro menü kategorisinde 12 adet item olduğu doğrulanır.
+[INFO ] 2023-10-01 16:40:26.864 [main] ReusableMethods - Menüden rastgele --> Yatak Odası kategorisi seçilerek , kategoriye tıklanır.
+[INFO ] 2023-10-01 16:40:31.552 [main] ReusableMethods - İdaş Gold Collection Altın Deluxe Ortopedik Çift Kişilik Yaylı Yatak 90 x 190 cm adlı ürün favorilere eklenir.
+[INFO ] 2023-10-01 16:40:38.755 [main] ReusableMethods - Kullanıcı başarılı bir şekilde https://www.pazarama.com/hesabim/begendiklerim adresine yönlendirilir.
+[INFO ] 2023-10-01 16:40:38.805 [main] ReusableMethods - Favoriye eklenen --> 'İdaş Gold Collection Altın Deluxe Ortopedik Çift Kişilik Yaylı Yatak 90 x 190 cm' adlı ürünün favoriler listesine başarılı bir şekilde eklendiği doğrulanır.
+[INFO ] 2023-10-01 16:40:38.810 [main] Listener - pazaramaCaseStudy test is succeed.
+[INFO ] 2023-10-01 16:40:40.772 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-10-01 16:42:28.431 [main] Utils - [TestNG] Running:
+  C:\Users\ata.aydinli\Downloads\PazaramaCaseStudy\Pazarama\src\test\java\XSuites\Smoke.xml
+
+[INFO ] 2023-10-01 16:42:28.441 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-10-01 16:42:35.179 [main] BaseTest - Window size: (1936, 1056)
+[INFO ] 2023-10-01 16:42:35.280 [main] Listener - Test Started: pazaramaCaseStudy
+[INFO ] 2023-10-01 16:42:35.315 [main] ReusableMethods - Kullanici arama motorunu açarak https://www.pazarama.com sayfasina giriş yapar.
+[INFO ] 2023-10-01 16:42:42.487 [main] ReusableMethods - Kullanıcının https://www.pazarama.com/ adresine başarılı bir şekilde yönlendirildiği doğrulanır.
+[INFO ] 2023-10-01 16:42:42.487 [main] ReusableMethods - Kullanici 'Giriş Yap / Üye Ol ' butonuna tıklar.
+[INFO ] 2023-10-01 16:42:49.943 [main] ReusableMethods - Kullanici 'E-Posta adresiniz' adlı texbox'a e-posta adresini giriş yapar.
+[INFO ] 2023-10-01 16:42:58.297 [main] ReusableMethods - Kullanici 'Şifreniz' adlı texbox'a şifresini giriş yapar.
+[INFO ] 2023-10-01 16:42:59.791 [main] ReusableMethods - Kullanici 'E-Posta' ve 'Şifre' alanlarını doldurarak 'DEVAM' butonuna tıklar.
+[INFO ] 2023-10-01 16:43:04.940 [main] ReusableMethods - Kullanıcı üye giriş bilgilerini giriş yaparak https://www.pazarama.com/ adresine yönlendirilir.
+[INFO ] 2023-10-01 16:43:05.003 [main] ReusableMethods - Kullanici'nin üyelik bilgilerini doğru girerek başarılı bir şekilde LOGIN olduğu doğrulanır.
+[INFO ] 2023-10-01 16:43:05.030 [main] ReusableMethods - Metro menü kategorisinde 12 adet item olduğu doğrulanır.
+[INFO ] 2023-10-01 16:43:16.378 [main] ReusableMethods - Menüden rastgele --> Retro Oyun Konsolları kategorisi seçilerek , kategoriye tıklanır.
+[INFO ] 2023-10-01 16:43:28.590 [main] ReusableMethods - Oyun Konsolu - RG351V adlı ürün favorilere eklenir.
+[INFO ] 2023-10-01 16:43:35.760 [main] ReusableMethods - Kullanıcı başarılı bir şekilde https://www.pazarama.com/hesabim/begendiklerim adresine yönlendirilir.
+[INFO ] 2023-10-01 16:43:36.169 [main] Listener - Test Failed: pazaramaCaseStudy
+[ERROR] 2023-10-01 16:43:36.169 [main] Listener - java.lang.AssertionError: Favoriye eklenen ürün favoriler listesine eklenmemiştir. expected [Peeq G7 Tümüyle Kişiselleştirilebilir Kablolu XBOX Oyun Konsolu] but found [Oyun Konsolu - RG351V]
+[WARN ] 2023-10-01 16:43:36.300 [AsyncHttpClient-1-4] WebSocketHandler - onError
+java.net.SocketException: Connection reset
+	at sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:401) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:434) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:254) ~[netty-buffer-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[netty-buffer-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[netty-common-4.1.96.Final.jar:4.1.96.Final]
+	at java.lang.Thread.run(Thread.java:1589) ~[?:?]
+[INFO ] 2023-10-01 16:43:38.134 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-10-01 16:52:41.224 [main] Utils - [TestNG] Running:
+  C:\Users\ata.aydinli\Downloads\PazaramaCaseStudy\Pazarama\src\test\java\XSuites\Smoke.xml
+
+[INFO ] 2023-10-01 16:52:41.236 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-10-01 16:52:47.828 [main] BaseTest - Window size: (1936, 1056)
+[INFO ] 2023-10-01 16:52:47.938 [main] Listener - Test Started: pazaramaCaseStudy
+[INFO ] 2023-10-01 16:52:47.965 [main] ReusableMethods - Kullanici arama motorunu açarak https://www.pazarama.com sayfasina giriş yapar.
+[INFO ] 2023-10-01 16:53:03.377 [main] ReusableMethods - Kullanıcının https://www.pazarama.com/ adresine başarılı bir şekilde yönlendirildiği doğrulanır.
+[INFO ] 2023-10-01 16:53:03.378 [main] ReusableMethods - Kullanici 'Giriş Yap / Üye Ol ' butonuna tıklar.
+[INFO ] 2023-10-01 16:53:03.707 [main] ReusableMethods - Kullanici 'E-Posta adresiniz' adlı texbox'a e-posta adresini giriş yapar.
+[INFO ] 2023-10-01 16:53:13.424 [main] ReusableMethods - Kullanici 'Şifreniz' adlı texbox'a şifresini giriş yapar.
+[INFO ] 2023-10-01 16:53:14.945 [main] ReusableMethods - Kullanici 'E-Posta' ve 'Şifre' alanlarını doldurarak 'DEVAM' butonuna tıklar.
+[INFO ] 2023-10-01 16:53:20.115 [main] ReusableMethods - Kullanıcı üye giriş bilgilerini giriş yaparak https://www.pazarama.com/ adresine yönlendirilir.
+[INFO ] 2023-10-01 16:53:20.182 [main] ReusableMethods - Kullanici'nin üyelik bilgilerini doğru girerek başarılı bir şekilde LOGIN olduğu doğrulanır.
+[INFO ] 2023-10-01 16:53:20.207 [main] ReusableMethods - Metro menü kategorisinde 12 adet item olduğu doğrulanır.
+[INFO ] 2023-10-01 16:53:30.934 [main] ReusableMethods - Menüden rastgele --> Bilgisayar Oyunu kategorisi seçilerek , kategoriye tıklanır.
+[INFO ] 2023-10-01 16:53:41.877 [main] ReusableMethods - Nintendo Gameboy Charlie And The Chocolate Factory adlı ürün favorilere eklenir.
+[INFO ] 2023-10-01 16:53:49.042 [main] ReusableMethods - Kullanıcı başarılı bir şekilde https://www.pazarama.com/hesabim/begendiklerim adresine yönlendirilir.
+[INFO ] 2023-10-01 16:53:50.026 [main] Listener - Test Failed: pazaramaCaseStudy
+[ERROR] 2023-10-01 16:53:50.028 [main] Listener - java.lang.AssertionError: Favoriye eklenen ürün favoriler listesine eklenmemiştir. expected [Nintendo Gameboy LEGO Island 2: The Brickster's Revenge] but found [Nintendo Gameboy Charlie And The Chocolate Factory]
+[INFO ] 2023-10-01 16:53:51.933 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-10-01 16:56:05.347 [main] Utils - [TestNG] Running:
+  C:\Users\ata.aydinli\Downloads\PazaramaCaseStudy\Pazarama\src\test\java\XSuites\Smoke.xml
+
+[INFO ] 2023-10-01 16:56:05.356 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-10-01 16:56:12.206 [main] BaseTest - Window size: (1936, 1056)
+[INFO ] 2023-10-01 16:56:12.311 [main] Listener - Test Started: pazaramaCaseStudy
+[INFO ] 2023-10-01 16:56:12.345 [main] ReusableMethods - Kullanici arama motorunu açarak https://www.pazarama.com sayfasina giriş yapar.
+[INFO ] 2023-10-01 16:56:15.278 [main] ReusableMethods - Kullanıcının https://www.pazarama.com/ adresine başarılı bir şekilde yönlendirildiği doğrulanır.
+[INFO ] 2023-10-01 16:56:15.278 [main] ReusableMethods - Kullanici 'Giriş Yap / Üye Ol ' butonuna tıklar.
+[INFO ] 2023-10-01 16:56:18.360 [main] ReusableMethods - Kullanici 'E-Posta adresiniz' adlı texbox'a e-posta adresini giriş yapar.
+[INFO ] 2023-10-01 16:56:23.905 [main] ReusableMethods - Kullanici 'Şifreniz' adlı texbox'a şifresini giriş yapar.
+[INFO ] 2023-10-01 16:56:25.343 [main] ReusableMethods - Kullanici 'E-Posta' ve 'Şifre' alanlarını doldurarak 'DEVAM' butonuna tıklar.
+[INFO ] 2023-10-01 16:56:29.698 [main] ReusableMethods - Kullanıcı üye giriş bilgilerini giriş yaparak https://www.pazarama.com/ adresine yönlendirilir.
+[INFO ] 2023-10-01 16:56:29.807 [main] ReusableMethods - Kullanici'nin üyelik bilgilerini doğru girerek başarılı bir şekilde LOGIN olduğu doğrulanır.
+[INFO ] 2023-10-01 16:56:29.833 [main] ReusableMethods - Metro menü kategorisinde 12 adet item olduğu doğrulanır.
+[INFO ] 2023-10-01 16:56:39.358 [main] ReusableMethods - Menüden rastgele --> Yağlar kategorisi seçilerek , kategoriye tıklanır.
+[INFO ] 2023-10-01 16:56:43.560 [main] ReusableMethods - Çotanak 5 Lt Fındık Yağı adlı ürün favorilere eklenir.
+[INFO ] 2023-10-01 16:56:50.747 [main] ReusableMethods - Kullanıcı başarılı bir şekilde https://www.pazarama.com/hesabim/begendiklerim adresine yönlendirilir.
+[INFO ] 2023-10-01 16:56:51.302 [main] ReusableMethods - Favoriye eklenen --> 'Çotanak 5 Lt Fındık Yağı' adlı ürünün favoriler listesine başarılı bir şekilde eklendiği doğrulanır.
+[INFO ] 2023-10-01 16:56:51.309 [main] Listener - pazaramaCaseStudy test is succeed.
+[INFO ] 2023-10-01 16:56:53.336 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-10-01 16:59:53.881 [main] Utils - [TestNG] Running:
+  C:\Users\ata.aydinli\Downloads\PazaramaCaseStudy\Pazarama\src\test\java\XSuites\Smoke.xml
+
+[INFO ] 2023-10-01 16:59:53.894 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-10-01 17:00:00.722 [main] BaseTest - Window size: (1936, 1056)
+[INFO ] 2023-10-01 17:00:00.812 [main] Listener - Test Started: pazaramaCaseStudy
+[INFO ] 2023-10-01 17:00:00.847 [main] ReusableMethods - Kullanici arama motorunu açarak https://www.pazarama.com sayfasina giriş yapar.
+[INFO ] 2023-10-01 17:00:15.610 [main] ReusableMethods - Kullanıcının https://www.pazarama.com/ adresine başarılı bir şekilde yönlendirildiği doğrulanır.
+[INFO ] 2023-10-01 17:00:15.610 [main] ReusableMethods - Kullanici 'Giriş Yap / Üye Ol ' butonuna tıklar.
+[INFO ] 2023-10-01 17:00:15.847 [main] ReusableMethods - Kullanici 'E-Posta adresiniz' adlı texbox'a e-posta adresini giriş yapar.
+[INFO ] 2023-10-01 17:00:24.627 [main] ReusableMethods - Kullanici 'Şifreniz' adlı texbox'a şifresini giriş yapar.
+[INFO ] 2023-10-01 17:00:26.115 [main] ReusableMethods - Kullanici 'E-Posta' ve 'Şifre' alanlarını doldurarak 'DEVAM' butonuna tıklar.
+[INFO ] 2023-10-01 17:00:30.831 [main] ReusableMethods - Kullanıcı üye giriş bilgilerini giriş yaparak https://www.pazarama.com/ adresine yönlendirilir.
+[INFO ] 2023-10-01 17:00:30.924 [main] ReusableMethods - Kullanici'nin üyelik bilgilerini doğru girerek başarılı bir şekilde LOGIN olduğu doğrulanır.
+[INFO ] 2023-10-01 17:00:30.957 [main] ReusableMethods - Metro menü kategorisinde 12 adet item olduğu doğrulanır.
+[INFO ] 2023-10-01 17:00:41.392 [main] ReusableMethods - Menüden rastgele --> Bebek Bakım ve Aile kategorisi seçilerek , kategoriye tıklanır.
+[INFO ] 2023-10-01 17:00:52.993 [main] ReusableMethods - Denemediğim Yol Kalmadı! adlı ürün favorilere eklenir.
+[INFO ] 2023-10-01 17:01:00.165 [main] ReusableMethods - Kullanıcı başarılı bir şekilde https://www.pazarama.com/hesabim/begendiklerim adresine yönlendirilir.
+[INFO ] 2023-10-01 17:01:00.720 [main] ReusableMethods - Favoriye eklenen --> 'Denemediğim Yol Kalmadı!' adlı ürünün favoriler listesine başarılı bir şekilde eklendiği doğrulanır.
+[INFO ] 2023-10-01 17:01:00.726 [main] Listener - pazaramaCaseStudy test is succeed.
+[INFO ] 2023-10-01 17:01:02.652 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-10-01 17:01:50.102 [main] Utils - [TestNG] Running:
+  C:\Users\ata.aydinli\Downloads\PazaramaCaseStudy\Pazarama\src\test\java\XSuites\Smoke.xml
+
+[INFO ] 2023-10-01 17:01:50.116 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-10-01 17:01:57.746 [main] BaseTest - Window size: (1936, 1056)
+[INFO ] 2023-10-01 17:01:57.841 [main] Listener - Test Started: pazaramaCaseStudy
+[INFO ] 2023-10-01 17:01:57.879 [main] ReusableMethods - Kullanici arama motorunu açarak https://www.pazarama.com sayfasina giriş yapar.
+[INFO ] 2023-10-01 17:02:03.910 [main] ReusableMethods - Kullanıcının https://www.pazarama.com/ adresine başarılı bir şekilde yönlendirildiği doğrulanır.
+[INFO ] 2023-10-01 17:02:03.911 [main] ReusableMethods - Kullanici 'Giriş Yap / Üye Ol ' butonuna tıklar.
+[INFO ] 2023-10-01 17:02:04.135 [main] ReusableMethods - Kullanici 'E-Posta adresiniz' adlı texbox'a e-posta adresini giriş yapar.
+[INFO ] 2023-10-01 17:02:10.297 [main] ReusableMethods - Kullanici 'Şifreniz' adlı texbox'a şifresini giriş yapar.
+[INFO ] 2023-10-01 17:02:11.776 [main] ReusableMethods - Kullanici 'E-Posta' ve 'Şifre' alanlarını doldurarak 'DEVAM' butonuna tıklar.
+[INFO ] 2023-10-01 17:02:17.138 [main] ReusableMethods - Kullanıcı üye giriş bilgilerini giriş yaparak https://www.pazarama.com/ adresine yönlendirilir.
+[INFO ] 2023-10-01 17:02:17.205 [main] ReusableMethods - Kullanici'nin üyelik bilgilerini doğru girerek başarılı bir şekilde LOGIN olduğu doğrulanır.
+[INFO ] 2023-10-01 17:02:17.235 [main] ReusableMethods - Metro menü kategorisinde 12 adet item olduğu doğrulanır.
+[INFO ] 2023-10-01 17:02:26.700 [main] ReusableMethods - Menüden rastgele --> Saç Bakım kategorisi seçilerek , kategoriye tıklanır.
+[INFO ] 2023-10-01 17:02:29.476 [main] Listener - Test Failed: pazaramaCaseStudy
+[ERROR] 2023-10-01 17:02:29.477 [main] Listener - java.lang.IllegalArgumentException: bound must be positive
+[INFO ] 2023-10-01 17:02:31.517 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-10-01 17:03:06.795 [main] Utils - [TestNG] Running:
+  C:\Users\ata.aydinli\Downloads\PazaramaCaseStudy\Pazarama\src\test\java\XSuites\Smoke.xml
+
+[INFO ] 2023-10-01 17:03:06.804 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-10-01 17:03:12.450 [main] BaseTest - Window size: (1936, 1056)
+[INFO ] 2023-10-01 17:03:12.528 [main] Listener - Test Started: pazaramaCaseStudy
+[INFO ] 2023-10-01 17:03:12.555 [main] ReusableMethods - Kullanici arama motorunu açarak https://www.pazarama.com sayfasina giriş yapar.
+[INFO ] 2023-10-01 17:03:18.248 [main] ReusableMethods - Kullanıcının https://www.pazarama.com/ adresine başarılı bir şekilde yönlendirildiği doğrulanır.
+[INFO ] 2023-10-01 17:03:18.249 [main] ReusableMethods - Kullanici 'Giriş Yap / Üye Ol ' butonuna tıklar.
+[INFO ] 2023-10-01 17:03:18.461 [main] ReusableMethods - Kullanici 'E-Posta adresiniz' adlı texbox'a e-posta adresini giriş yapar.
+[INFO ] 2023-10-01 17:03:24.438 [main] ReusableMethods - Kullanici 'Şifreniz' adlı texbox'a şifresini giriş yapar.
+[INFO ] 2023-10-01 17:03:25.933 [main] ReusableMethods - Kullanici 'E-Posta' ve 'Şifre' alanlarını doldurarak 'DEVAM' butonuna tıklar.
+[INFO ] 2023-10-01 17:03:30.829 [main] ReusableMethods - Kullanıcı üye giriş bilgilerini giriş yaparak https://www.pazarama.com/ adresine yönlendirilir.
+[INFO ] 2023-10-01 17:03:30.951 [main] ReusableMethods - Kullanici'nin üyelik bilgilerini doğru girerek başarılı bir şekilde LOGIN olduğu doğrulanır.
+[INFO ] 2023-10-01 17:03:30.976 [main] ReusableMethods - Metro menü kategorisinde 12 adet item olduğu doğrulanır.
+[INFO ] 2023-10-01 17:03:37.647 [main] Listener - Test Failed: pazaramaCaseStudy
+[ERROR] 2023-10-01 17:03:37.648 [main] Listener - org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a href="/erkek-dis-giyim-k-K08069" class="text-gray-600 text-xxs font-normal hover:text-blue-500 hover:underline">...</a> is not clickable at point (411, 909). Other element would receive the click: <div data-v-09be6c34="" class="flex items-center py-5">...</div>
+  (Session info: chrome=117.0.5938.132)
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [91b61ea4be4d28c46b169fd066698b71, clickElement {id=3F565A35C65E1AFEAE9D19A320D7D039_element_201}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 117.0.5938.132, chrome: {chromedriverVersion: 117.0.5938.92 (67649b10b92b..., userDataDir: C:\Users\ATA~1.AYD\AppData\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61296}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61296/devtoo..., se:cdpVersion: 117.0.5938.132, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (91b61ea4be4d28c46b169fd066698b71)] -> xpath: //div[@class='mega-menu-category']//ul/li/a]
+Session ID: 91b61ea4be4d28c46b169fd066698b71
+[WARN ] 2023-10-01 17:03:37.697 [AsyncHttpClient-1-4] WebSocketHandler - onError
+java.net.SocketException: Connection reset
+	at sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:401) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:434) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:254) ~[netty-buffer-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[netty-buffer-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[netty-common-4.1.96.Final.jar:4.1.96.Final]
+	at java.lang.Thread.run(Thread.java:1589) ~[?:?]
+[INFO ] 2023-10-01 17:03:39.557 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-10-01 17:04:04.553 [main] Utils - [TestNG] Running:
+  C:\Users\ata.aydinli\Downloads\PazaramaCaseStudy\Pazarama\src\test\java\XSuites\Smoke.xml
+
+[INFO ] 2023-10-01 17:04:04.566 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-10-01 17:04:10.864 [main] BaseTest - Window size: (1936, 1056)
+[INFO ] 2023-10-01 17:04:10.943 [main] Listener - Test Started: pazaramaCaseStudy
+[INFO ] 2023-10-01 17:04:10.970 [main] ReusableMethods - Kullanici arama motorunu açarak https://www.pazarama.com sayfasina giriş yapar.
+[INFO ] 2023-10-01 17:04:13.457 [main] ReusableMethods - Kullanıcının https://www.pazarama.com/ adresine başarılı bir şekilde yönlendirildiği doğrulanır.
+[INFO ] 2023-10-01 17:04:13.457 [main] ReusableMethods - Kullanici 'Giriş Yap / Üye Ol ' butonuna tıklar.
+[INFO ] 2023-10-01 17:04:16.841 [main] ReusableMethods - Kullanici 'E-Posta adresiniz' adlı texbox'a e-posta adresini giriş yapar.
+[INFO ] 2023-10-01 17:04:20.493 [main] ReusableMethods - Kullanici 'Şifreniz' adlı texbox'a şifresini giriş yapar.
+[INFO ] 2023-10-01 17:04:21.735 [main] ReusableMethods - Kullanici 'E-Posta' ve 'Şifre' alanlarını doldurarak 'DEVAM' butonuna tıklar.
+[INFO ] 2023-10-01 17:04:26.281 [main] ReusableMethods - Kullanıcı üye giriş bilgilerini giriş yaparak https://www.pazarama.com/ adresine yönlendirilir.
+[INFO ] 2023-10-01 17:04:26.393 [main] ReusableMethods - Kullanici'nin üyelik bilgilerini doğru girerek başarılı bir şekilde LOGIN olduğu doğrulanır.
+[INFO ] 2023-10-01 17:04:26.419 [main] ReusableMethods - Metro menü kategorisinde 12 adet item olduğu doğrulanır.
+[INFO ] 2023-10-01 17:04:35.966 [main] ReusableMethods - Menüden rastgele --> Ayak Bakım Ürünleri kategorisi seçilerek , kategoriye tıklanır.
+[INFO ] 2023-10-01 17:04:40.664 [main] ReusableMethods - Ayak Koku Pudrası 12 Gr adlı ürün favorilere eklenir.
+[INFO ] 2023-10-01 17:04:47.807 [main] ReusableMethods - Kullanıcı başarılı bir şekilde https://www.pazarama.com/hesabim/begendiklerim adresine yönlendirilir.
+[INFO ] 2023-10-01 17:04:48.376 [main] ReusableMethods - Favoriye eklenen --> 'Ayak Koku Pudrası 12 Gr' adlı ürünün favoriler listesine başarılı bir şekilde eklendiği doğrulanır.
+[INFO ] 2023-10-01 17:04:48.381 [main] Listener - pazaramaCaseStudy test is succeed.
+[INFO ] 2023-10-01 17:04:50.331 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-10-01 17:10:23.118 [main] Utils - [TestNG] Running:
+  C:\Users\ata.aydinli\Downloads\PazaramaCaseStudy\Pazarama\src\test\java\XSuites\Smoke.xml
+
+[INFO ] 2023-10-01 17:10:23.131 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-10-01 17:10:29.740 [main] BaseTest - Window size: (1936, 1056)
+[INFO ] 2023-10-01 17:10:29.858 [main] Listener - Test Started: pazaramaCaseStudy
+[INFO ] 2023-10-01 17:10:29.886 [main] ReusableMethods - Kullanici arama motorunu açarak https://www.pazarama.com sayfasina giriş yapar.
+[INFO ] 2023-10-01 17:10:46.419 [main] ReusableMethods - Kullanıcının https://www.pazarama.com/ adresine başarılı bir şekilde yönlendirildiği doğrulanır.
+[INFO ] 2023-10-01 17:10:46.420 [main] ReusableMethods - Kullanici 'Giriş Yap / Üye Ol ' butonuna tıklar.
+[INFO ] 2023-10-01 17:10:46.742 [main] ReusableMethods - Kullanici 'E-Posta adresiniz' adlı texbox'a e-posta adresini giriş yapar.
+[INFO ] 2023-10-01 17:10:54.558 [main] ReusableMethods - Kullanici 'Şifreniz' adlı texbox'a şifresini giriş yapar.
+[INFO ] 2023-10-01 17:10:56.019 [main] ReusableMethods - Kullanici 'E-Posta' ve 'Şifre' alanlarını doldurarak 'DEVAM' butonuna tıklar.
+[INFO ] 2023-10-01 17:11:01.294 [main] ReusableMethods - Kullanıcı üye giriş bilgilerini giriş yaparak https://www.pazarama.com/ adresine yönlendirilir.
+[INFO ] 2023-10-01 17:11:01.360 [main] ReusableMethods - Kullanici'nin üyelik bilgilerini doğru girerek başarılı bir şekilde LOGIN olduğu doğrulanır.
+[INFO ] 2023-10-01 17:11:01.386 [main] ReusableMethods - Metro menü kategorisinde 12 adet item olduğu doğrulanır.
+[INFO ] 2023-10-01 17:11:11.679 [main] ReusableMethods - Menüden rastgele --> Tırmanış ve Dağcılık Ekipmanları kategorisi seçilerek , kategoriye tıklanır.
+[INFO ] 2023-10-01 17:11:21.858 [main] ReusableMethods - CT NUPTSE EVO SEMI-OTO KRAMPON adlı ürün favorilere eklenir.
+[INFO ] 2023-10-01 17:11:29.066 [main] ReusableMethods - Kullanıcı başarılı bir şekilde https://www.pazarama.com/hesabim/begendiklerim adresine yönlendirilir.
+[INFO ] 2023-10-01 17:11:29.118 [main] ReusableMethods - Favoriye eklenen --> 'CT NUPTSE EVO SEMI-OTO KRAMPON' adlı ürünün favoriler listesine başarılı bir şekilde eklendiği doğrulanır.
+[INFO ] 2023-10-01 17:11:29.126 [main] Listener - pazaramaCaseStudy test is succeed.
+[INFO ] 2023-10-01 17:11:31.223 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-10-01 17:19:52.639 [main] Utils - [TestNG] Running:
+  C:\Users\ata.aydinli\Downloads\PazaramaCaseStudy\Pazarama\src\test\java\XSuites\Smoke.xml
+
+[INFO ] 2023-10-01 17:19:52.647 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-10-01 17:20:02.143 [main] BaseTest - Window size: (1936, 1056)
+[INFO ] 2023-10-01 17:20:02.245 [main] Listener - Test Started: pazaramaCaseStudy
+[INFO ] 2023-10-01 17:20:02.290 [main] ReusableMethods - Kullanici arama motorunu açarak https://www.pazarama.com sayfasina giriş yapar.
+[INFO ] 2023-10-01 17:20:16.956 [main] ReusableMethods - Kullanıcının https://www.pazarama.com/ adresine başarılı bir şekilde yönlendirildiği doğrulanır.
+[INFO ] 2023-10-01 17:20:16.957 [main] ReusableMethods - Kullanici 'Giriş Yap / Üye Ol ' butonuna tıklar.
+[INFO ] 2023-10-01 17:20:17.221 [main] ReusableMethods - Kullanici 'E-Posta adresiniz' adlı texbox'a e-posta adresini giriş yapar.
+[INFO ] 2023-10-01 17:20:25.945 [main] ReusableMethods - Kullanici 'Şifreniz' adlı texbox'a şifresini giriş yapar.
+[INFO ] 2023-10-01 17:20:27.392 [main] ReusableMethods - Kullanici 'E-Posta' ve 'Şifre' alanlarını doldurarak 'DEVAM' butonuna tıklar.
+[INFO ] 2023-10-01 17:20:32.480 [main] ReusableMethods - Kullanıcı üye giriş bilgilerini giriş yaparak https://www.pazarama.com/ adresine yönlendirilir.
+[INFO ] 2023-10-01 17:20:32.655 [main] ReusableMethods - Kullanici'nin üyelik bilgilerini doğru girerek başarılı bir şekilde LOGIN olduğu doğrulanır.
+[INFO ] 2023-10-01 17:20:32.684 [main] ReusableMethods - Metro menü kategorisinde 12 adet item olduğu doğrulanır.
+[INFO ] 2023-10-01 17:20:43.275 [main] ReusableMethods - Menüden rastgele --> Hırdavat Ürünleri kategorisi seçilerek , kategoriye tıklanır.
+[INFO ] 2023-10-01 17:20:49.713 [main] Listener - Test Failed: pazaramaCaseStudy
+[ERROR] 2023-10-01 17:20:49.715 [main] Listener - java.lang.IllegalArgumentException: bound must be positive
+[INFO ] 2023-10-01 17:20:51.595 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-10-01 17:21:18.980 [main] Utils - [TestNG] Running:
+  C:\Users\ata.aydinli\Downloads\PazaramaCaseStudy\Pazarama\src\test\java\XSuites\Smoke.xml
+
+[INFO ] 2023-10-01 17:21:18.991 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-10-01 17:21:25.975 [main] BaseTest - Window size: (1936, 1056)
+[INFO ] 2023-10-01 17:21:26.085 [main] Listener - Test Started: pazaramaCaseStudy
+[INFO ] 2023-10-01 17:21:26.121 [main] ReusableMethods - Kullanici arama motorunu açarak https://www.pazarama.com sayfasina giriş yapar.
+[INFO ] 2023-10-01 17:21:30.680 [main] ReusableMethods - Kullanıcının https://www.pazarama.com/ adresine başarılı bir şekilde yönlendirildiği doğrulanır.
+[INFO ] 2023-10-01 17:21:30.680 [main] ReusableMethods - Kullanici 'Giriş Yap / Üye Ol ' butonuna tıklar.
+[INFO ] 2023-10-01 17:21:30.825 [main] ReusableMethods - Kullanici 'E-Posta adresiniz' adlı texbox'a e-posta adresini giriş yapar.
+[INFO ] 2023-10-01 17:21:36.737 [main] ReusableMethods - Kullanici 'Şifreniz' adlı texbox'a şifresini giriş yapar.
+[INFO ] 2023-10-01 17:21:38.231 [main] ReusableMethods - Kullanici 'E-Posta' ve 'Şifre' alanlarını doldurarak 'DEVAM' butonuna tıklar.
+[INFO ] 2023-10-01 17:21:42.712 [main] ReusableMethods - Kullanıcı üye giriş bilgilerini giriş yaparak https://www.pazarama.com/ adresine yönlendirilir.
+[INFO ] 2023-10-01 17:21:42.852 [main] ReusableMethods - Kullanici'nin üyelik bilgilerini doğru girerek başarılı bir şekilde LOGIN olduğu doğrulanır.
+[INFO ] 2023-10-01 17:21:42.877 [main] ReusableMethods - Metro menü kategorisinde 12 adet item olduğu doğrulanır.
+[INFO ] 2023-10-01 17:21:52.299 [main] ReusableMethods - Menüden rastgele --> Kadın Sandalet, Terlik kategorisi seçilerek , kategoriye tıklanır.
+[INFO ] 2023-10-01 17:21:55.284 [main] Listener - Test Failed: pazaramaCaseStudy
+[ERROR] 2023-10-01 17:21:55.284 [main] Listener - java.lang.IllegalArgumentException: bound must be positive
+[INFO ] 2023-10-01 17:21:57.092 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-10-01 17:22:43.723 [main] Utils - [TestNG] Running:
+  C:\Users\ata.aydinli\Downloads\PazaramaCaseStudy\Pazarama\src\test\java\XSuites\Smoke.xml
+
+[INFO ] 2023-10-01 17:22:43.735 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-10-01 17:22:51.172 [main] BaseTest - Window size: (1936, 1056)
+[INFO ] 2023-10-01 17:22:51.268 [main] Listener - Test Started: pazaramaCaseStudy
+[INFO ] 2023-10-01 17:22:51.300 [main] ReusableMethods - Kullanici arama motorunu açarak https://www.pazarama.com sayfasina giriş yapar.
+[INFO ] 2023-10-01 17:22:57.461 [main] ReusableMethods - Kullanıcının https://www.pazarama.com/ adresine başarılı bir şekilde yönlendirildiği doğrulanır.
+[INFO ] 2023-10-01 17:22:57.461 [main] ReusableMethods - Kullanici 'Giriş Yap / Üye Ol ' butonuna tıklar.
+[INFO ] 2023-10-01 17:22:57.821 [main] ReusableMethods - Kullanici 'E-Posta adresiniz' adlı texbox'a e-posta adresini giriş yapar.
+[INFO ] 2023-10-01 17:23:03.762 [main] ReusableMethods - Kullanici 'Şifreniz' adlı texbox'a şifresini giriş yapar.
+[INFO ] 2023-10-01 17:23:04.764 [main] ReusableMethods - Kullanici 'E-Posta' ve 'Şifre' alanlarını doldurarak 'DEVAM' butonuna tıklar.
+[INFO ] 2023-10-01 17:23:11.639 [main] ReusableMethods - Kullanıcı üye giriş bilgilerini giriş yaparak https://www.pazarama.com/ adresine yönlendirilir.
+[INFO ] 2023-10-01 17:23:11.717 [main] ReusableMethods - Kullanici'nin üyelik bilgilerini doğru girerek başarılı bir şekilde LOGIN olduğu doğrulanır.
+[INFO ] 2023-10-01 17:23:11.746 [main] ReusableMethods - Metro menü kategorisinde 12 adet item olduğu doğrulanır.
+[INFO ] 2023-10-01 17:23:21.291 [main] ReusableMethods - Menüden rastgele --> Kuru Gıda kategorisi seçilerek , kategoriye tıklanır.
+[INFO ] 2023-10-01 17:23:29.517 [main] ReusableMethods - Filiz Normal Spagetti 500 gr Makarna adlı ürün favorilere eklenir.
+[INFO ] 2023-10-01 17:23:37.157 [main] ReusableMethods - Kullanıcı başarılı bir şekilde https://www.pazarama.com/hesabim/begendiklerim adresine yönlendirilir.
+[INFO ] 2023-10-01 17:23:37.205 [main] ReusableMethods - Favoriye eklenen --> 'Filiz Normal Spagetti 500 gr Makarna' adlı ürünün favoriler listesine başarılı bir şekilde eklendiği doğrulanır.
+[INFO ] 2023-10-01 17:23:37.211 [main] Listener - pazaramaCaseStudy test is succeed.
+[WARN ] 2023-10-01 17:23:37.498 [AsyncHttpClient-1-4] WebSocketHandler - onError
+java.net.SocketException: Connection reset
+	at sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:401) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:434) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:254) ~[netty-buffer-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[netty-buffer-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[netty-common-4.1.96.Final.jar:4.1.96.Final]
+	at java.lang.Thread.run(Thread.java:1589) ~[?:?]
+[INFO ] 2023-10-01 17:23:39.261 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-10-01 18:12:21.586 [main] Utils - [TestNG] Running:
+  C:\Users\ata.aydinli\Downloads\PazaramaCaseStudy\Pazarama\src\test\java\XSuites\Smoke.xml
+
+[INFO ] 2023-10-01 18:12:21.599 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-10-01 18:12:30.411 [main] BaseTest - Window size: (1936, 1056)
+[INFO ] 2023-10-01 18:12:30.505 [main] Listener - Test Started: pazaramaCaseStudy
+[INFO ] 2023-10-01 18:12:30.542 [main] ReusableMethods - Kullanici arama motorunu açarak https://www.pazarama.com sayfasina giriş yapar.
+[INFO ] 2023-10-01 18:12:48.633 [main] ReusableMethods - Kullanıcının https://www.pazarama.com/ adresine başarılı bir şekilde yönlendirildiği doğrulanır.
+[INFO ] 2023-10-01 18:12:48.634 [main] ReusableMethods - Kullanici 'Giriş Yap / Üye Ol ' butonuna tıklar.
+[INFO ] 2023-10-01 18:12:48.963 [main] ReusableMethods - Kullanici 'E-Posta adresiniz' adlı texbox'a e-posta adresini giriş yapar.
+[INFO ] 2023-10-01 18:12:58.529 [main] ReusableMethods - Kullanici 'Şifreniz' adlı texbox'a şifresini giriş yapar.
+[INFO ] 2023-10-01 18:12:59.932 [main] ReusableMethods - Kullanici 'E-Posta' ve 'Şifre' alanlarını doldurarak 'DEVAM' butonuna tıklar.
+[INFO ] 2023-10-01 18:13:05.169 [main] ReusableMethods - Kullanıcı üye giriş bilgilerini giriş yaparak https://www.pazarama.com/ adresine yönlendirilir.
+[INFO ] 2023-10-01 18:13:05.292 [main] ReusableMethods - Kullanici'nin üyelik bilgilerini doğru girerek başarılı bir şekilde LOGIN olduğu doğrulanır.
+[INFO ] 2023-10-01 18:13:05.330 [main] ReusableMethods - Metro menü kategorisinde 12 adet item olduğu doğrulanır.
+[INFO ] 2023-10-01 18:13:15.954 [main] ReusableMethods - Menüden rastgele --> Retro Oyun Konsolları kategorisi seçilerek , kategoriye tıklanır.
+[INFO ] 2023-10-01 18:13:27.867 [main] ReusableMethods - Polosmart CGM08 Mobil Oyun Kolu Siyah adlı ürün favorilere eklenir.
+[INFO ] 2023-10-01 18:13:35.032 [main] ReusableMethods - Kullanıcı başarılı bir şekilde https://www.pazarama.com/hesabim/begendiklerim adresine yönlendirilir.
+[INFO ] 2023-10-01 18:13:35.422 [main] Listener - Test Failed: pazaramaCaseStudy
+[ERROR] 2023-10-01 18:13:35.424 [main] Listener - java.lang.AssertionError: Favoriye eklenen ürün favoriler listesine eklenmemiştir. expected [PS Vita 1000 Model Wi-Fi Oyun Konsolu 8GB (sd2vita) Oyun Yüklü 3.65 Versiyon Taşınabilir Konsol] but found [Polosmart CGM08 Mobil Oyun Kolu Siyah]
+[INFO ] 2023-10-01 18:13:37.372 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-10-01 18:15:14.611 [main] Utils - [TestNG] Running:
+  C:\Users\ata.aydinli\Downloads\PazaramaCaseStudy\Pazarama\src\test\java\XSuites\Smoke.xml
+
+[INFO ] 2023-10-01 18:15:14.623 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-10-01 18:15:23.138 [main] BaseTest - Window size: (1936, 1056)
+[INFO ] 2023-10-01 18:15:23.258 [main] Listener - Test Started: pazaramaCaseStudy
+[INFO ] 2023-10-01 18:15:23.293 [main] ReusableMethods - Kullanici arama motorunu açarak https://www.pazarama.com sayfasina giriş yapar.
+[INFO ] 2023-10-01 18:15:27.125 [main] ReusableMethods - Kullanıcının https://www.pazarama.com/ adresine başarılı bir şekilde yönlendirildiği doğrulanır.
+[INFO ] 2023-10-01 18:15:27.126 [main] ReusableMethods - Kullanici 'Giriş Yap / Üye Ol ' butonuna tıklar.
+[INFO ] 2023-10-01 18:15:27.280 [main] ReusableMethods - Kullanici 'E-Posta adresiniz' adlı texbox'a e-posta adresini giriş yapar.
+[INFO ] 2023-10-01 18:15:32.939 [main] ReusableMethods - Kullanici 'Şifreniz' adlı texbox'a şifresini giriş yapar.
+[INFO ] 2023-10-01 18:15:34.271 [main] ReusableMethods - Kullanici 'E-Posta' ve 'Şifre' alanlarını doldurarak 'DEVAM' butonuna tıklar.
+[INFO ] 2023-10-01 18:15:38.795 [main] ReusableMethods - Kullanıcı üye giriş bilgilerini giriş yaparak https://www.pazarama.com/ adresine yönlendirilir.
+[INFO ] 2023-10-01 18:15:38.936 [main] ReusableMethods - Kullanici'nin üyelik bilgilerini doğru girerek başarılı bir şekilde LOGIN olduğu doğrulanır.
+[INFO ] 2023-10-01 18:15:38.963 [main] ReusableMethods - Metro menü kategorisinde 12 adet item olduğu doğrulanır.
+[INFO ] 2023-10-01 18:15:48.499 [main] ReusableMethods - Menüden rastgele --> Cep Telefonu Oyun Aksesuarları kategorisi seçilerek , kategoriye tıklanır.
+[INFO ] 2023-10-01 18:15:54.323 [main] ReusableMethods - Kablosuz Kulaklık Led Işıklı Kedi Kulaklıklı Oyun Gürültü Engelleme Stereo Bluetooth Kulaklık Pembe adlı ürün favorilere eklenir.
+[INFO ] 2023-10-01 18:16:01.981 [main] ReusableMethods - Kullanıcı başarılı bir şekilde https://www.pazarama.com/hesabim/begendiklerim adresine yönlendirilir.
+[INFO ] 2023-10-01 18:16:02.032 [main] ReusableMethods - Favoriye eklenen --> 'Kablosuz Kulaklık Led Işıklı Kedi Kulaklıklı Oyun Gürültü Engelleme Stereo Bluetooth Kulaklık Pembe' adlı ürünün favoriler listesine başarılı bir şekilde eklendiği doğrulanır.
+[INFO ] 2023-10-01 18:16:02.038 [main] Listener - pazaramaCaseStudy test is succeed.
+[INFO ] 2023-10-01 18:16:04.062 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-10-01 18:58:38.384 [main] Utils - [TestNG] Running:
+  C:\Users\ata.aydinli\Downloads\PazaramaCaseStudy\Pazarama\src\test\java\XSuites\Smoke.xml
+
+[INFO ] 2023-10-01 18:58:38.394 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-10-01 18:58:48.438 [main] BaseTest - Window size: (1936, 1056)
+[INFO ] 2023-10-01 18:58:48.543 [main] Listener - Test Started: pazaramaCaseStudy
+[INFO ] 2023-10-01 18:58:48.567 [main] ReusableMethods - Kullanici arama motorunu açarak https://www.pazarama.com sayfasina giriş yapar.
+[INFO ] 2023-10-01 18:58:57.616 [main] ReusableMethods - Kullanıcının https://www.pazarama.com/ adresine başarılı bir şekilde yönlendirildiği doğrulanır.
+[INFO ] 2023-10-01 18:58:57.617 [main] ReusableMethods - Kullanici 'Giriş Yap / Üye Ol ' butonuna tıklar.
+[INFO ] 2023-10-01 18:59:06.533 [main] ReusableMethods - Kullanici 'E-Posta adresiniz' adlı texbox'a e-posta adresini giriş yapar.
+[INFO ] 2023-10-01 18:59:10.595 [main] ReusableMethods - Kullanici 'Şifreniz' adlı texbox'a şifresini giriş yapar.
+[INFO ] 2023-10-01 18:59:12.136 [main] ReusableMethods - Kullanici 'E-Posta' ve 'Şifre' alanlarını doldurarak 'DEVAM' butonuna tıklar.
+[INFO ] 2023-10-01 18:59:19.884 [main] ReusableMethods - Kullanıcı üye giriş bilgilerini giriş yaparak https://www.pazarama.com/ adresine yönlendirilir.
+[INFO ] 2023-10-01 18:59:19.975 [main] ReusableMethods - Kullanici'nin üyelik bilgilerini doğru girerek başarılı bir şekilde LOGIN olduğu doğrulanır.
+[INFO ] 2023-10-01 18:59:20.009 [main] ReusableMethods - Metro menü kategorisinde 12 adet item olduğu doğrulanır.
+[INFO ] 2023-10-01 18:59:30.394 [main] ReusableMethods - Menüden rastgele --> Su, Maden Suyu kategorisi seçilerek , kategoriye tıklanır.
+[INFO ] 2023-10-01 18:59:40.223 [main] ReusableMethods - LAVANTA SUYU adlı ürün favorilere eklenir.
+[INFO ] 2023-10-01 18:59:47.899 [main] ReusableMethods - Kullanıcı başarılı bir şekilde https://www.pazarama.com/hesabim/begendiklerim adresine yönlendirilir.
+[INFO ] 2023-10-01 18:59:48.334 [main] Listener - Test Failed: pazaramaCaseStudy
+[ERROR] 2023-10-01 18:59:48.336 [main] Listener - java.lang.AssertionError: Favoriye eklenen ürün favoriler listesine eklenmemiştir. expected [Kablosuz Kulaklık Led Işıklı Kedi Kulaklıklı Oyun Gürültü Engelleme Stereo Bluetooth Kulaklık Pembe] but found [LAVANTA SUYU]
+[INFO ] 2023-10-01 18:59:50.427 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-10-01 19:15:25.250 [main] Utils - [TestNG] Running:
+  C:\Users\ata.aydinli\Downloads\PazaramaCaseStudy\Pazarama\src\test\java\XSuites\Smoke.xml
+
+[INFO ] 2023-10-01 19:15:25.260 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-10-01 19:15:36.374 [main] BaseTest - Window size: (1936, 1056)
+[INFO ] 2023-10-01 19:15:36.477 [main] Listener - Test Started: pazaramaCaseStudy
+[INFO ] 2023-10-01 19:15:36.507 [main] ReusableMethods - Kullanici browser açarak https://www.pazarama.com sayfasina giriş yapar.
+[INFO ] 2023-10-01 19:15:51.455 [main] ReusableMethods - Kullanıcının https://www.pazarama.com/ adresine başarılı bir şekilde yönlendirildiği doğrulanır.
+[INFO ] 2023-10-01 19:15:51.456 [main] ReusableMethods - Kullanici 'Giriş Yap / Üye Ol ' butonuna tıklar.
+[INFO ] 2023-10-01 19:15:51.662 [main] ReusableMethods - Kullanici 'E-Posta adresiniz' adlı texbox'a e-posta adresini giriş yapar.
+[INFO ] 2023-10-01 19:16:00.514 [main] ReusableMethods - Kullanici 'Şifreniz' adlı texbox'a şifresini giriş yapar.
+[INFO ] 2023-10-01 19:16:01.720 [main] ReusableMethods - Kullanici 'E-Posta' ve 'Şifre' alanlarını doldurarak 'DEVAM' butonuna tıklar.
+[INFO ] 2023-10-01 19:16:06.425 [main] ReusableMethods - Kullanıcı üye giriş bilgilerini giriş yaparak https://www.pazarama.com/ adresine yönlendirilir.
+[INFO ] 2023-10-01 19:16:06.496 [main] ReusableMethods - Kullanici'nin üyelik bilgilerini doğru girerek başarılı bir şekilde LOGIN olduğu doğrulanır.
+[INFO ] 2023-10-01 19:16:06.521 [main] ReusableMethods - Metro menü kategorisinde 12 adet item olduğu doğrulanır.
+[INFO ] 2023-10-01 19:16:16.996 [main] ReusableMethods - Menüden rastgele --> Alışveriş Torbası kategorisi seçilerek , kategoriye tıklanır.
+[INFO ] 2023-10-01 19:16:26.955 [main] ReusableMethods - DİAGONAL TAKVİYELİ POŞET NO:2 (26*38 CM) 50'Lİ PAKET adlı ürün favorilere eklenir.
+[INFO ] 2023-10-01 19:16:34.640 [main] ReusableMethods - Kullanıcı başarılı bir şekilde https://www.pazarama.com/hesabim/begendiklerim adresine yönlendirilir.
+[INFO ] 2023-10-01 19:16:34.681 [main] ReusableMethods - Favoriye eklenen --> 'DİAGONAL TAKVİYELİ POŞET NO:2 (26*38 CM) 50'Lİ PAKET' adlı ürünün favoriler listesine başarılı bir şekilde eklendiği doğrulanır.
+[INFO ] 2023-10-01 19:16:34.686 [main] Listener - pazaramaCaseStudy test is succeed.
+[INFO ] 2023-10-01 19:16:36.586 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-10-01 21:35:56.826 [main] Utils - [TestNG] Running:
+  C:\Users\ata.aydinli\Downloads\PazaramaCaseStudy\Pazarama\src\test\java\XSuites\Smoke.xml
+
+[INFO ] 2023-10-01 21:35:56.834 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-10-01 21:36:03.612 [main] BaseTest - Window size: (1936, 1056)
+[INFO ] 2023-10-01 21:36:03.681 [main] Listener - Test Started: pazaramaCaseStudy
+[INFO ] 2023-10-01 21:36:03.718 [main] ReusableMethods - Kullanici browser açarak https://www.pazarama.com sayfasina giriş yapar.
+[INFO ] 2023-10-01 21:36:23.650 [main] ReusableMethods - Kullanıcının https://www.pazarama.com/ adresine başarılı bir şekilde yönlendirildiği doğrulanır.
+[INFO ] 2023-10-01 21:36:23.651 [main] ReusableMethods - Kullanici 'Giriş Yap / Üye Ol ' butonuna tıklar.
+[INFO ] 2023-10-01 21:36:24.099 [main] ReusableMethods - Kullanici 'E-Posta adresiniz' adlı texbox'a e-posta adresini giriş yapar.
+[INFO ] 2023-10-01 21:36:32.137 [main] ReusableMethods - Kullanici 'Şifreniz' adlı texbox'a şifresini giriş yapar.
+[INFO ] 2023-10-01 21:36:33.074 [main] ReusableMethods - Kullanici 'E-Posta' ve 'Şifre' alanlarını doldurarak 'DEVAM' butonuna tıklar.
+[INFO ] 2023-10-01 21:36:37.102 [main] ReusableMethods - Kullanıcı üye giriş bilgilerini giriş yaparak https://www.pazarama.com/ adresine yönlendirilir.
+[INFO ] 2023-10-01 21:36:37.175 [main] ReusableMethods - Kullanici'nin üyelik bilgilerini doğru girerek başarılı bir şekilde LOGIN olduğu doğrulanır.
+[INFO ] 2023-10-01 21:36:37.195 [main] ReusableMethods - Metro menü kategorisinde 12 adet item olduğu doğrulanır.
+[INFO ] 2023-10-01 21:36:47.439 [main] ReusableMethods - Menüden rastgele --> Anne İçecekleri kategorisi seçilerek , kategoriye tıklanır.
+[INFO ] 2023-10-01 21:36:57.003 [main] ReusableMethods - Doğadan Emziren Annelere Özel Çay 18 Poşet adlı ürün favorilere eklenir.
+[INFO ] 2023-10-01 21:37:04.594 [main] ReusableMethods - Kullanıcı başarılı bir şekilde https://www.pazarama.com/hesabim/begendiklerim adresine yönlendirilir.
+[INFO ] 2023-10-01 21:37:04.616 [main] ReusableMethods - Favoriye eklenen --> 'Doğadan Emziren Annelere Özel Çay 18 Poşet' adlı ürünün favoriler listesine başarılı bir şekilde eklendiği doğrulanır.
+[INFO ] 2023-10-01 21:37:04.619 [main] Listener - pazaramaCaseStudy test is succeed.
+[INFO ] 2023-10-01 21:37:06.089 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-10-01 21:38:20.827 [main] Utils - [TestNG] Running:
+  C:\Users\ata.aydinli\Downloads\PazaramaCaseStudy\Pazarama\src\test\java\XSuites\Smoke.xml
+
+[INFO ] 2023-10-01 21:38:20.838 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-10-01 21:38:25.640 [main] BaseTest - Window size: (1936, 1056)
+[INFO ] 2023-10-01 21:38:25.707 [main] Listener - Test Started: pazaramaCaseStudy
+[INFO ] 2023-10-01 21:38:25.738 [main] ReusableMethods - Kullanici browser açarak https://www.pazarama.com sayfasina giriş yapar.
+[INFO ] 2023-10-01 21:38:28.141 [main] ReusableMethods - Kullanıcının https://www.pazarama.com/ adresine başarılı bir şekilde yönlendirildiği doğrulanır.
+[INFO ] 2023-10-01 21:38:28.142 [main] ReusableMethods - Kullanici 'Giriş Yap / Üye Ol ' butonuna tıklar.
+[INFO ] 2023-10-01 21:38:29.927 [main] ReusableMethods - Kullanici 'E-Posta adresiniz' adlı texbox'a e-posta adresini giriş yapar.
+[INFO ] 2023-10-01 21:38:34.057 [main] ReusableMethods - Kullanici 'Şifreniz' adlı texbox'a şifresini giriş yapar.
+[INFO ] 2023-10-01 21:38:35.062 [main] ReusableMethods - Kullanici 'E-Posta' ve 'Şifre' alanlarını doldurarak 'DEVAM' butonuna tıklar.
+[INFO ] 2023-10-01 21:38:38.321 [main] ReusableMethods - Kullanıcı üye giriş bilgilerini giriş yaparak https://www.pazarama.com/ adresine yönlendirilir.
+[INFO ] 2023-10-01 21:38:38.400 [main] ReusableMethods - Kullanici'nin üyelik bilgilerini doğru girerek başarılı bir şekilde LOGIN olduğu doğrulanır.
+[INFO ] 2023-10-01 21:38:38.419 [main] ReusableMethods - Metro menü kategorisinde 12 adet item olduğu doğrulanır.
+[INFO ] 2023-10-01 21:38:47.838 [main] ReusableMethods - Menüden rastgele --> Yenidoğan Hastane Çıkışı kategorisi seçilerek , kategoriye tıklanır.
+[INFO ] 2023-10-01 21:38:53.371 [main] ReusableMethods - Andywawa AC23170 Koala 5 Parça Hastane Çıkışı Grey Melange adlı ürün favorilere eklenir.
+[INFO ] 2023-10-01 21:39:00.985 [main] ReusableMethods - Kullanıcı başarılı bir şekilde https://www.pazarama.com/hesabim/begendiklerim adresine yönlendirilir.
+[INFO ] 2023-10-01 21:39:01.007 [main] ReusableMethods - Favoriye eklenen --> 'Andywawa AC23170 Koala 5 Parça Hastane Çıkışı Grey Melange' adlı ürünün favoriler listesine başarılı bir şekilde eklendiği doğrulanır.
+[INFO ] 2023-10-01 21:39:01.010 [main] Listener - pazaramaCaseStudy test is succeed.
+[INFO ] 2023-10-01 21:39:02.468 [main] Listener - I am in onFinish method Study Case
+[INFO ] 2023-10-01 21:40:38.134 [main] Utils - [TestNG] Running:
+  C:\Users\ata.aydinli\Downloads\PazaramaCaseStudy\Pazarama\src\test\java\XSuites\Smoke.xml
+
+[INFO ] 2023-10-01 21:40:38.142 [main] Listener - I am in onStart method Study Case
+[INFO ] 2023-10-01 21:40:42.745 [main] BaseTest - Window size: (1936, 1056)
+[INFO ] 2023-10-01 21:40:42.816 [main] Listener - Test Started: pazaramaCaseStudy
+[INFO ] 2023-10-01 21:40:42.844 [main] ReusableMethods - Kullanici browser açarak https://www.pazarama.com sayfasina giriş yapar.
+[INFO ] 2023-10-01 21:40:48.711 [main] ReusableMethods - Kullanıcının https://www.pazarama.com/ adresine başarılı bir şekilde yönlendirildiği doğrulanır.
+[INFO ] 2023-10-01 21:40:48.711 [main] ReusableMethods - Kullanici 'Giriş Yap / Üye Ol ' butonuna tıklar.
+[INFO ] 2023-10-01 21:40:49.188 [main] ReusableMethods - Kullanici 'E-Posta adresiniz' adlı texbox'a e-posta adresini giriş yapar.
+[INFO ] 2023-10-01 21:40:54.876 [main] ReusableMethods - Kullanici 'Şifreniz' adlı texbox'a şifresini giriş yapar.
+[INFO ] 2023-10-01 21:40:55.836 [main] ReusableMethods - Kullanici 'E-Posta' ve 'Şifre' alanlarını doldurarak 'DEVAM' butonuna tıklar.
+[INFO ] 2023-10-01 21:40:59.139 [main] ReusableMethods - Kullanıcı üye giriş bilgilerini giriş yaparak https://www.pazarama.com/ adresine yönlendirilir.
+[INFO ] 2023-10-01 21:41:02.637 [main] ReusableMethods - Kullanici'nin üyelik bilgilerini doğru girerek başarılı bir şekilde LOGIN olduğu doğrulanır.
+[INFO ] 2023-10-01 21:41:02.660 [main] ReusableMethods - Metro menü kategorisinde 12 adet item olduğu doğrulanır.
+[INFO ] 2023-10-01 21:41:12.097 [main] ReusableMethods - Menüden rastgele --> Siyaset ve İdeoloji kategorisi seçilerek , kategoriye tıklanır.
+[INFO ] 2023-10-01 21:41:25.453 [main] ReusableMethods - Kavgam (Tam Metin) adlı ürün favorilere eklenir.
+[INFO ] 2023-10-01 21:41:33.787 [main] ReusableMethods - Kullanıcı başarılı bir şekilde https://www.pazarama.com/hesabim/begendiklerim adresine yönlendirilir.
+[INFO ] 2023-10-01 21:41:33.809 [main] ReusableMethods - Favoriye eklenen --> 'Kavgam (Tam Metin)' adlı ürünün favoriler listesine başarılı bir şekilde eklendiği doğrulanır.
+[INFO ] 2023-10-01 21:41:33.811 [main] Listener - pazaramaCaseStudy test is succeed.
+[WARN ] 2023-10-01 21:41:33.861 [AsyncHttpClient-1-4] WebSocketHandler - onError
+java.net.SocketException: Connection reset
+	at sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:401) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:434) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:254) ~[netty-buffer-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[netty-buffer-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562) ~[netty-transport-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.96.Final.jar:4.1.96.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[netty-common-4.1.96.Final.jar:4.1.96.Final]
+	at java.lang.Thread.run(Thread.java:1589) ~[?:?]
+[INFO ] 2023-10-01 21:41:35.147 [main] Listener - I am in onFinish method Study Case
